@@ -1,0 +1,152 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				18,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left Pissed"
+		},
+		{
+			"offsets": [
+				10,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pissed Down"
+		},
+		{
+			"offsets": [
+				4,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Pissed"
+		},
+		{
+			"offsets": [
+				-9,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pissed right"
+		},
+		{
+			"offsets": [
+				-4,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle pissed"
+		},
+		{
+			"offsets": [
+				31,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventhahahlol",
+			"indices": [],
+			"name": "takethat"
+		},
+		{
+			"offsets": [
+				31,
+				9
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "eventhahahlol-loop",
+			"indices": [
+				29
+			],
+			"name": "takethat"
+		},
+		{
+			"offsets": [
+				11,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventmad",
+			"indices": [],
+			"name": "pissed mid-song"
+		},
+		{
+			"offsets": [
+				11,
+				16
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "eventmad-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				19,
+				18,
+				17,
+				16,
+				15,
+				14,
+				13,
+				12
+			],
+			"name": "pissed mid-song"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-8
+			],
+			"anim": "eventshoot",
+			"fps": 24,
+			"name": "Nonsense shoot gun0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/New Nonsense/NewNonsensePissed",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "nonsense",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		231,
+		255
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

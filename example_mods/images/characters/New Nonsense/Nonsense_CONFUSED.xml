@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nonsense_CONFUSED.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle Confused0000" x="1809" y="1957" width="318" height="644" frameX="0" frameY="-11" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0001" x="1809" y="1957" width="318" height="644" frameX="0" frameY="-11" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0002" x="2173" y="5" width="317" height="647" frameX="-5" frameY="-8" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0003" x="2173" y="5" width="317" height="647" frameX="-5" frameY="-8" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0004" x="994" y="3937" width="319" height="652" frameX="-9" frameY="-3" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0005" x="994" y="3937" width="319" height="652" frameX="-9" frameY="-3" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0006" x="345" y="3937" width="320" height="654" frameX="-8" frameY="-1" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0007" x="345" y="3937" width="320" height="654" frameX="-8" frameY="-1" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0008" x="670" y="3937" width="319" height="655" frameX="-8" frameY="0" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0009" x="670" y="3937" width="319" height="655" frameX="-8" frameY="0" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0010" x="670" y="3937" width="319" height="655" frameX="-8" frameY="0" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0011" x="654" y="4597" width="317" height="655" frameX="-8" frameY="0" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0012" x="654" y="4597" width="317" height="655" frameX="-8" frameY="0" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0013" x="1861" y="1297" width="314" height="655" frameX="-11" frameY="0" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0014" x="1861" y="1297" width="314" height="655" frameX="-11" frameY="0" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0015" x="2180" y="1314" width="311" height="643" frameX="-14" frameY="-12" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0016" x="2180" y="1314" width="311" height="643" frameX="-14" frameY="-12" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0017" x="1808" y="2606" width="316" height="647" frameX="-10" frameY="-8" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0018" x="1808" y="2606" width="316" height="647" frameX="-10" frameY="-8" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0019" x="1714" y="3881" width="319" height="652" frameX="-10" frameY="-3" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0020" x="1714" y="3881" width="319" height="652" frameX="-10" frameY="-3" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0021" x="5" y="4582" width="320" height="654" frameX="-8" frameY="-1" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0022" x="5" y="4582" width="320" height="654" frameX="-8" frameY="-1" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0023" x="330" y="4596" width="319" height="655" frameX="-8" frameY="0" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0024" x="330" y="4596" width="319" height="655" frameX="-8" frameY="0" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0025" x="330" y="4596" width="319" height="655" frameX="-8" frameY="0" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0026" x="329" y="5256" width="317" height="655" frameX="-8" frameY="0" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0027" x="329" y="5256" width="317" height="655" frameX="-8" frameY="0" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0028" x="976" y="4597" width="316" height="655" frameX="-9" frameY="0" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="Idle Confused0029" x="976" y="4597" width="316" height="655" frameX="-9" frameY="0" frameWidth="329" frameHeight="655"/>
+	<SubTexture name="NHLookadis0000" x="3155" y="4515" width="268" height="653" frameX="-13" frameY="0" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0001" x="3155" y="4515" width="268" height="653" frameX="-13" frameY="0" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0002" x="3155" y="4515" width="268" height="653" frameX="-13" frameY="0" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0003" x="2881" y="4515" width="269" height="651" frameX="-12" frameY="-2" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0004" x="2881" y="4515" width="269" height="651" frameX="-12" frameY="-2" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0005" x="3123" y="1262" width="295" height="649" frameX="-10" frameY="-4" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0006" x="1031" y="3270" width="338" height="639" frameX="0" frameY="-14" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0007" x="5" y="3937" width="335" height="640" frameX="-2" frameY="-13" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0008" x="5" y="3937" width="335" height="640" frameX="-2" frameY="-13" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0009" x="1374" y="3881" width="335" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0010" x="1374" y="3881" width="335" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0011" x="5" y="3291" width="337" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0012" x="5" y="3291" width="337" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0013" x="347" y="3291" width="337" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0014" x="689" y="3291" width="337" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0015" x="767" y="2624" width="346" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0016" x="767" y="1978" width="347" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0017" x="823" y="5" width="347" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0018" x="356" y="2645" width="342" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0019" x="1118" y="2624" width="342" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0020" x="1172" y="1297" width="340" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0021" x="1119" y="1943" width="340" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0022" x="1522" y="651" width="339" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0023" x="1522" y="651" width="339" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0024" x="1465" y="2589" width="338" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0025" x="5" y="2645" width="346" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0026" x="823" y="651" width="347" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0027" x="820" y="1297" width="347" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0028" x="1175" y="5" width="342" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0029" x="1175" y="651" width="342" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0030" x="1464" y="1943" width="340" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0031" x="1522" y="5" width="340" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0032" x="1517" y="1297" width="339" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0033" x="1517" y="1297" width="339" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHLookadis0034" x="1465" y="3235" width="338" height="641" frameX="-3" frameY="-12" frameWidth="350" frameHeight="653"/>
+	<SubTexture name="NHTHinkLol0000" x="2549" y="5227" width="260" height="653"/>
+	<SubTexture name="NHTHinkLol0001" x="2549" y="5227" width="260" height="653"/>
+	<SubTexture name="NHTHinkLol0002" x="2549" y="5227" width="260" height="653"/>
+	<SubTexture name="NHTHinkLol0003" x="3186" y="3852" width="260" height="653"/>
+	<SubTexture name="NHTHinkLol0004" x="3186" y="3852" width="260" height="653"/>
+	<SubTexture name="NHTHinkLol0005" x="3150" y="5173" width="260" height="653"/>
+	<SubTexture name="NHTHinkLol0006" x="3150" y="5173" width="260" height="653"/>
+	<SubTexture name="NHTHinkLol0007" x="3415" y="5173" width="260" height="653"/>
+	<SubTexture name="NHTHinkLol0008" x="3415" y="5173" width="260" height="653"/>
+	<SubTexture name="NHTHinkLol0009" x="3415" y="5173" width="260" height="653"/>
+	<SubTexture name="NHTHinkLol0010" x="3428" y="4510" width="260" height="653"/>
+	<SubTexture name="NHTHinkLol0011" x="3428" y="4510" width="260" height="653"/>
+	<SubTexture name="NHTHinkLol0012" x="3680" y="5168" width="260" height="653"/>
+	<SubTexture name="NHTHinkLol0013" x="3680" y="5168" width="260" height="653"/>
+	<SubTexture name="NoteDown Confused0000" x="2819" y="636" width="321" height="621" frameX="-5" frameY="-5" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0001" x="2765" y="1933" width="318" height="623" frameX="-2" frameY="-3" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0002" x="3134" y="5" width="318" height="625" frameX="-1" frameY="-1" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0003" x="2495" y="655" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0004" x="2810" y="5" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0005" x="2441" y="1962" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0006" x="2496" y="1286" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0007" x="2496" y="1286" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0008" x="2496" y="1286" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0009" x="2496" y="1286" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0010" x="2496" y="1286" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0011" x="2496" y="1286" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0012" x="2496" y="1286" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0013" x="2496" y="1286" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0014" x="2496" y="1286" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0015" x="2496" y="1286" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0016" x="2496" y="1286" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0017" x="2496" y="1286" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteDown Confused0018" x="2496" y="1286" width="319" height="626" frameX="0" frameY="0" frameWidth="326" frameHeight="626"/>
+	<SubTexture name="NoteLeft Confused0000" x="2441" y="2593" width="309" height="646" frameX="0" frameY="0" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0001" x="2495" y="5" width="310" height="645" frameX="-6" frameY="-1" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0002" x="2755" y="2593" width="309" height="643" frameX="-8" frameY="-3" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0003" x="2755" y="3241" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0004" x="2567" y="4581" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0005" x="1921" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0006" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0007" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0008" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0009" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0010" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0011" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0012" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0013" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0014" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0015" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0016" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0017" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0018" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0019" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0020" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0021" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0022" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0023" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0024" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0025" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0026" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0027" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0028" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteLeft Confused0029" x="2235" y="5209" width="309" height="641" frameX="-7" frameY="-5" frameWidth="317" frameHeight="646"/>
+	<SubTexture name="NoteRight Confused0000" x="1642" y="4538" width="309" height="654" frameX="-7" frameY="0" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0001" x="2441" y="3244" width="306" height="652" frameX="-3" frameY="-2" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0002" x="1609" y="5197" width="307" height="652" frameX="0" frameY="-2" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0003" x="2129" y="2606" width="307" height="652" frameX="0" frameY="-2" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0004" x="2180" y="657" width="307" height="652" frameX="0" frameY="-2" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0005" x="1297" y="5184" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0006" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0007" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0008" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0009" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0010" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0011" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0012" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0013" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0014" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0015" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0016" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0017" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0018" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0019" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0020" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0021" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0022" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0023" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0024" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0025" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0026" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0027" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0028" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteRight Confused0029" x="651" y="5257" width="307" height="653" frameX="0" frameY="-1" frameWidth="316" frameHeight="654"/>
+	<SubTexture name="NoteUp Confused0000" x="1867" y="5" width="301" height="683" frameX="0" frameY="0" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0001" x="2567" y="3901" width="295" height="675" frameX="-10" frameY="-8" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0002" x="2820" y="1262" width="298" height="666" frameX="-6" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0003" x="2038" y="3263" width="300" height="666" frameX="-4" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0004" x="2262" y="3934" width="300" height="666" frameX="-4" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0005" x="963" y="5257" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0006" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0007" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0008" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0009" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0010" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0011" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0012" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0013" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0014" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0015" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0016" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0017" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0018" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0019" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0020" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0021" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0022" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0023" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0024" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0025" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0026" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0027" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0028" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="NoteUp Confused0029" x="1956" y="4538" width="301" height="666" frameX="-3" frameY="-17" frameWidth="305" frameHeight="683"/>
+	<SubTexture name="inTheZone0000" x="5" y="5241" width="319" height="655" frameX="-37" frameY="-3" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0001" x="5" y="5241" width="319" height="655" frameX="-37" frameY="-3" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0002" x="5" y="5241" width="319" height="655" frameX="-37" frameY="-3" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0003" x="5" y="5241" width="319" height="655" frameX="-37" frameY="-3" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0004" x="5" y="5241" width="319" height="655" frameX="-37" frameY="-3" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0005" x="1318" y="4527" width="319" height="652" frameX="-37" frameY="-6" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0006" x="1318" y="4527" width="319" height="652" frameX="-37" frameY="-6" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0007" x="3069" y="2561" width="310" height="631" frameX="-26" frameY="-27" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0008" x="3069" y="2561" width="310" height="631" frameX="-26" frameY="-27" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0009" x="2867" y="3887" width="314" height="623" frameX="-23" frameY="-35" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0010" x="3069" y="3197" width="271" height="650" frameX="-37" frameY="-8" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0011" x="3069" y="3197" width="271" height="650" frameX="-37" frameY="-8" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0012" x="2881" y="5171" width="264" height="644" frameX="-32" frameY="-14" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0013" x="2881" y="5171" width="264" height="644" frameX="-32" frameY="-14" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0014" x="3451" y="3847" width="262" height="642" frameX="-36" frameY="-16" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0015" x="3451" y="3847" width="262" height="642" frameX="-36" frameY="-16" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0016" x="3451" y="3847" width="262" height="642" frameX="-36" frameY="-16" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0017" x="3693" y="4494" width="261" height="643" frameX="-37" frameY="-15" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0018" x="3693" y="4494" width="261" height="643" frameX="-37" frameY="-15" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0019" x="3693" y="4494" width="261" height="643" frameX="-37" frameY="-15" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0020" x="3693" y="4494" width="261" height="643" frameX="-37" frameY="-15" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0021" x="3693" y="4494" width="261" height="643" frameX="-37" frameY="-15" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0022" x="3693" y="4494" width="261" height="643" frameX="-37" frameY="-15" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0023" x="3693" y="4494" width="261" height="643" frameX="-37" frameY="-15" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0024" x="3693" y="4494" width="261" height="643" frameX="-37" frameY="-15" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0025" x="3693" y="4494" width="261" height="643" frameX="-37" frameY="-15" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0026" x="3693" y="4494" width="261" height="643" frameX="-37" frameY="-15" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0027" x="3693" y="4494" width="261" height="643" frameX="-37" frameY="-15" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0028" x="3693" y="4494" width="261" height="643" frameX="-37" frameY="-15" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0029" x="3345" y="3197" width="263" height="645" frameX="-37" frameY="-13" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0030" x="3345" y="3197" width="263" height="645" frameX="-37" frameY="-13" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0031" x="2132" y="1962" width="285" height="624" frameX="-36" frameY="-34" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0032" x="2132" y="1962" width="285" height="624" frameX="-36" frameY="-34" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0033" x="3476" y="599" width="277" height="618" frameX="-43" frameY="-40" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0034" x="5" y="1327" width="405" height="654" frameX="-15" frameY="-4" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0035" x="414" y="664" width="401" height="658" frameX="-8" frameY="0" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0036" x="5" y="664" width="404" height="658" frameX="-8" frameY="0" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0037" x="5" y="1986" width="376" height="654" frameX="0" frameY="-4" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0038" x="386" y="1986" width="376" height="654" frameX="0" frameY="-4" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0039" x="5" y="5" width="409" height="654" frameX="0" frameY="-4" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0040" x="419" y="5" width="399" height="646" frameX="-13" frameY="-12" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0041" x="415" y="1327" width="360" height="646" frameX="-13" frameY="-12" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0042" x="3423" y="1226" width="315" height="599" frameX="-17" frameY="-59" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0043" x="3145" y="635" width="326" height="586" frameX="-12" frameY="-72" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0044" x="3145" y="635" width="326" height="586" frameX="-12" frameY="-72" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0045" x="3457" y="5" width="322" height="589" frameX="-19" frameY="-69" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0046" x="3457" y="5" width="322" height="589" frameX="-19" frameY="-69" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0047" x="3123" y="1916" width="321" height="590" frameX="-20" frameY="-68" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0048" x="3123" y="1916" width="321" height="590" frameX="-20" frameY="-68" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0049" x="3123" y="1916" width="321" height="590" frameX="-20" frameY="-68" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0050" x="3123" y="1916" width="321" height="590" frameX="-20" frameY="-68" frameWidth="420" frameHeight="658"/>
+	<SubTexture name="inTheZone0051" x="3123" y="1916" width="321" height="590" frameX="-20" frameY="-68" frameWidth="420" frameHeight="658"/>
+</TextureAtlas>

@@ -1,0 +1,156 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-6
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NHA left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-20
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nonsensica down0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				45
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nonsensica up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nonsensica Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Nonsensica Idle 0",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Nonsensica Idle 0",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				10
+			],
+			"fps": 24,
+			"anim": "eventohyeah",
+			"indices": [],
+			"name": "Nonsensica aw yeah0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				-15
+			],
+			"fps": 24,
+			"anim": "eventthatsright",
+			"indices": [],
+			"name": "thats right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				8
+			],
+			"fps": 24,
+			"anim": "eventlaugh",
+			"indices": [],
+			"name": "Nonsensica laugh0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nonsensica/Nonsensicas_anim",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "nonsensica",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		231,
+		255
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,176 @@
+{
+	"song": {
+		"events": [
+			[
+				16800,
+				[
+					[
+						"Force Cam Section",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				27000,
+				[
+					[
+						"Force Cam Section",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				27600,
+				[
+					[
+						"Force Cam Section",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				27900,
+				[
+					[
+						"Force Cam Section",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				28200,
+				[
+					[
+						"Force Cam Section",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Force Cam Section",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				36600,
+				[
+					[
+						"Force Cam Section",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				37200,
+				[
+					[
+						"Force Cam Section",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				37500,
+				[
+					[
+						"Force Cam Section",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				37800,
+				[
+					[
+						"Force Cam Section",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				40800,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Force Cam Section",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				84600,
+				[
+					[
+						"Force Cam Section",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				85200,
+				[
+					[
+						"Force Cam Section",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				85500,
+				[
+					[
+						"Force Cam Section",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				85800,
+				[
+					[
+						"Force Cam Section",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Force Cam Section",
+						"0",
+						""
+					]
+				]
+			]
+		]
+	}
+}

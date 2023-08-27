@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ostatic.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stat0000" x="2" y="2" width="650" height="400"/>
+	<SubTexture name="stat0001" x="654" y="2" width="650" height="400"/>
+	<SubTexture name="stat0002" x="1306" y="2" width="650" height="400"/>
+</TextureAtlas>

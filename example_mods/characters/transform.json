@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "transform",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/devSong/transform",
+	"position": [
+		-140,
+		90
+	],
+	"healthicon": "madbear",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		40,
+		40
+	],
+	"camera_position": [
+		50,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

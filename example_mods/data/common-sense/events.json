@@ -1,0 +1,21 @@
+{
+	"song": {
+		"events": [
+			[
+				115.384615384615,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-classic"
+					],
+					[
+						"Play Animation",
+						"eventnogun",
+						"BF"
+					]
+				]
+			]
+		]
+	}
+}

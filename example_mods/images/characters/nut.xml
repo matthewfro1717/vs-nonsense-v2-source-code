@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nut.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Nut Button0000" x="10" y="10" width="703" height="642" frameX="0" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0001" x="10" y="10" width="703" height="642" frameX="0" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0002" x="723" y="10" width="699" height="641" frameX="-2" frameY="-7" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0003" x="1432" y="10" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0004" x="2141" y="10" width="699" height="634" frameX="-2" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0005" x="2141" y="10" width="699" height="634" frameX="-2" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0006" x="2850" y="10" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0007" x="2850" y="10" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0008" x="3559" y="10" width="699" height="640" frameX="-2" frameY="-8" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0009" x="4268" y="10" width="699" height="631" frameX="-2" frameY="-17" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0010" x="4977" y="10" width="699" height="632" frameX="-2" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0011" x="4977" y="10" width="699" height="632" frameX="-2" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0012" x="5686" y="10" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0013" x="5686" y="10" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0014" x="6395" y="10" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0015" x="6395" y="10" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0016" x="7104" y="10" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0017" x="7104" y="10" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0018" x="10" y="662" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0019" x="10" y="662" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0020" x="719" y="662" width="699" height="633" frameX="-2" frameY="-15" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0021" x="719" y="662" width="699" height="633" frameX="-2" frameY="-15" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0022" x="1428" y="662" width="699" height="630" frameX="-2" frameY="-18" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0023" x="2137" y="662" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0024" x="2846" y="662" width="699" height="641" frameX="-2" frameY="-7" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0025" x="3555" y="662" width="703" height="641" frameX="0" frameY="-7" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0026" x="4268" y="662" width="703" height="641" frameX="0" frameY="-7" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0027" x="4981" y="662" width="699" height="641" frameX="-2" frameY="-7" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0028" x="5690" y="662" width="699" height="638" frameX="-2" frameY="-10" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0029" x="5690" y="662" width="699" height="638" frameX="-2" frameY="-10" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0030" x="6399" y="662" width="699" height="639" frameX="-2" frameY="-9" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0031" x="6399" y="662" width="699" height="639" frameX="-2" frameY="-9" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0032" x="7108" y="662" width="699" height="639" frameX="-2" frameY="-9" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0033" x="7108" y="662" width="699" height="639" frameX="-2" frameY="-9" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0034" x="10" y="1313" width="699" height="640" frameX="-2" frameY="-8" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0035" x="10" y="1313" width="699" height="640" frameX="-2" frameY="-8" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0036" x="10" y="1313" width="699" height="640" frameX="-2" frameY="-8" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0037" x="10" y="1313" width="699" height="640" frameX="-2" frameY="-8" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0038" x="719" y="1313" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0039" x="719" y="1313" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0040" x="1428" y="1313" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0041" x="2137" y="1313" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0042" x="2846" y="1313" width="699" height="633" frameX="-2" frameY="-15" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0043" x="2846" y="1313" width="699" height="633" frameX="-2" frameY="-15" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0044" x="3555" y="1313" width="699" height="631" frameX="-2" frameY="-17" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0045" x="3555" y="1313" width="699" height="631" frameX="-2" frameY="-17" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0046" x="4264" y="1313" width="699" height="633" frameX="-2" frameY="-15" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0047" x="4973" y="1313" width="699" height="633" frameX="-2" frameY="-15" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0048" x="5682" y="1313" width="699" height="641" frameX="-2" frameY="-7" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0049" x="6391" y="1313" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0050" x="7100" y="1313" width="703" height="645" frameX="0" frameY="-3" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0051" x="7100" y="1313" width="703" height="645" frameX="0" frameY="-3" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0052" x="10" y="1971" width="699" height="644" frameX="-2" frameY="-4" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0053" x="719" y="1971" width="699" height="644" frameX="-2" frameY="-4" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0054" x="1428" y="1971" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0055" x="1428" y="1971" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0056" x="2137" y="1971" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0057" x="2137" y="1971" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0058" x="2137" y="1971" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0059" x="2137" y="1971" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0060" x="2137" y="1971" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Nut Button0061" x="2137" y="1971" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+</TextureAtlas>

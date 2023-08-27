@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				223,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NoteLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				480,
+				-501
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NoteDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-58,
+				395
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NoteUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-87,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NoteRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/New Nonsense/Nonsense_Assets",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "hd-nonsense",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		231,
+		255
+	],
+	"camera_position": [
+		-50,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

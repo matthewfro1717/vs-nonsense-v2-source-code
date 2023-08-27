@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nonsensicas_anim.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NHA left0000" x="10" y="10" width="315" height="658" frameX="-12" frameY="-1" frameWidth="333" frameHeight="659"/>
+	<SubTexture name="NHA left0001" x="335" y="10" width="332" height="656" frameX="0" frameY="-3" frameWidth="333" frameHeight="659"/>
+	<SubTexture name="NHA left0002" x="677" y="10" width="331" height="657" frameX="-2" frameY="-2" frameWidth="333" frameHeight="659"/>
+	<SubTexture name="NHA left0003" x="1018" y="10" width="326" height="658" frameX="-6" frameY="-1" frameWidth="333" frameHeight="659"/>
+	<SubTexture name="NHA left0004" x="1354" y="10" width="328" height="659" frameX="-5" frameY="0" frameWidth="333" frameHeight="659"/>
+	<SubTexture name="NHA left0005" x="1692" y="10" width="327" height="659" frameX="-5" frameY="0" frameWidth="333" frameHeight="659"/>
+	<SubTexture name="NHA left0006" x="2029" y="10" width="327" height="659" frameX="-5" frameY="0" frameWidth="333" frameHeight="659"/>
+	<SubTexture name="NHA left0007" x="2029" y="10" width="327" height="659" frameX="-5" frameY="0" frameWidth="333" frameHeight="659"/>
+	<SubTexture name="NHA left0008" x="2029" y="10" width="327" height="659" frameX="-5" frameY="0" frameWidth="333" frameHeight="659"/>
+	<SubTexture name="NHA left0009" x="2029" y="10" width="327" height="659" frameX="-5" frameY="0" frameWidth="333" frameHeight="659"/>
+	<SubTexture name="NHA left0010" x="2029" y="10" width="327" height="659" frameX="-5" frameY="0" frameWidth="333" frameHeight="659"/>
+	<SubTexture name="Nonsensica Idle 0000" x="2366" y="10" width="344" height="658" frameX="-28" frameY="-5" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0001" x="2720" y="10" width="366" height="653" frameX="-5" frameY="-10" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0002" x="2720" y="10" width="366" height="653" frameX="-5" frameY="-10" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0003" x="3096" y="10" width="369" height="654" frameX="0" frameY="-9" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0004" x="3096" y="10" width="369" height="654" frameX="0" frameY="-9" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0005" x="3475" y="10" width="369" height="660" frameX="-3" frameY="-3" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0006" x="3475" y="10" width="369" height="660" frameX="-3" frameY="-3" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0007" x="3854" y="10" width="341" height="663" frameX="-39" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0008" x="3854" y="10" width="341" height="663" frameX="-39" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0009" x="4205" y="10" width="332" height="663" frameX="-49" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0010" x="4205" y="10" width="332" height="663" frameX="-49" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0011" x="4547" y="10" width="330" height="663" frameX="-51" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0012" x="4547" y="10" width="330" height="663" frameX="-51" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0013" x="4547" y="10" width="330" height="663" frameX="-51" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0014" x="4547" y="10" width="330" height="663" frameX="-51" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0015" x="4887" y="10" width="332" height="654" frameX="-45" frameY="-9" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0016" x="5229" y="10" width="342" height="658" frameX="-40" frameY="-5" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0017" x="5229" y="10" width="342" height="658" frameX="-40" frameY="-5" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0018" x="5581" y="10" width="334" height="661" frameX="-44" frameY="-2" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0019" x="5581" y="10" width="334" height="661" frameX="-44" frameY="-2" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0020" x="5925" y="10" width="321" height="663" frameX="-55" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0021" x="5925" y="10" width="321" height="663" frameX="-55" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0022" x="6256" y="10" width="333" height="662" frameX="-48" frameY="-1" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0023" x="6256" y="10" width="333" height="662" frameX="-48" frameY="-1" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0024" x="6599" y="10" width="337" height="663" frameX="-45" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0025" x="6599" y="10" width="337" height="663" frameX="-45" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0026" x="6599" y="10" width="337" height="663" frameX="-45" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0027" x="6599" y="10" width="337" height="663" frameX="-45" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0028" x="6599" y="10" width="337" height="663" frameX="-45" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Idle 0029" x="6599" y="10" width="337" height="663" frameX="-45" frameY="0" frameWidth="382" frameHeight="663"/>
+	<SubTexture name="Nonsensica Right0000" x="6946" y="10" width="396" height="659" frameX="-2" frameY="-4" frameWidth="398" frameHeight="663"/>
+	<SubTexture name="Nonsensica Right0001" x="7352" y="10" width="397" height="660" frameX="0" frameY="-3" frameWidth="398" frameHeight="663"/>
+	<SubTexture name="Nonsensica Right0002" x="7759" y="10" width="395" height="663" frameX="0" frameY="0" frameWidth="398" frameHeight="663"/>
+	<SubTexture name="Nonsensica Right0003" x="10" y="683" width="394" height="663" frameX="0" frameY="0" frameWidth="398" frameHeight="663"/>
+	<SubTexture name="Nonsensica Right0004" x="414" y="683" width="394" height="663" frameX="0" frameY="0" frameWidth="398" frameHeight="663"/>
+	<SubTexture name="Nonsensica Right0005" x="414" y="683" width="394" height="663" frameX="0" frameY="0" frameWidth="398" frameHeight="663"/>
+	<SubTexture name="Nonsensica Right0006" x="818" y="683" width="394" height="663" frameX="0" frameY="0" frameWidth="398" frameHeight="663"/>
+	<SubTexture name="Nonsensica Right0007" x="818" y="683" width="394" height="663" frameX="0" frameY="0" frameWidth="398" frameHeight="663"/>
+	<SubTexture name="Nonsensica Right0008" x="818" y="683" width="394" height="663" frameX="0" frameY="0" frameWidth="398" frameHeight="663"/>
+	<SubTexture name="Nonsensica Right0009" x="818" y="683" width="394" height="663" frameX="0" frameY="0" frameWidth="398" frameHeight="663"/>
+	<SubTexture name="Nonsensica Right0010" x="818" y="683" width="394" height="663" frameX="0" frameY="0" frameWidth="398" frameHeight="663"/>
+	<SubTexture name="Nonsensica Right0011" x="818" y="683" width="394" height="663" frameX="0" frameY="0" frameWidth="398" frameHeight="663"/>
+	<SubTexture name="Nonsensica Right0012" x="818" y="683" width="394" height="663" frameX="0" frameY="0" frameWidth="398" frameHeight="663"/>
+	<SubTexture name="Nonsensica Right0013" x="818" y="683" width="394" height="663" frameX="0" frameY="0" frameWidth="398" frameHeight="663"/>
+	<SubTexture name="Nonsensica aw yeah0000" x="1222" y="683" width="323" height="664" frameX="-48" frameY="-8" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0001" x="1222" y="683" width="323" height="664" frameX="-48" frameY="-8" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0002" x="1555" y="683" width="323" height="664" frameX="-48" frameY="-8" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0003" x="1888" y="683" width="326" height="662" frameX="-43" frameY="-10" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0004" x="2224" y="683" width="326" height="662" frameX="-43" frameY="-10" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0005" x="2560" y="683" width="324" height="661" frameX="-42" frameY="-11" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0006" x="2894" y="683" width="305" height="661" frameX="-22" frameY="-11" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0007" x="3209" y="683" width="329" height="669" frameX="0" frameY="-3" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0008" x="3548" y="683" width="311" height="670" frameX="-20" frameY="-2" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0009" x="3869" y="683" width="319" height="669" frameX="-20" frameY="-3" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0010" x="4198" y="683" width="319" height="669" frameX="-20" frameY="-3" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0011" x="4527" y="683" width="319" height="670" frameX="-22" frameY="-2" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0012" x="4856" y="683" width="319" height="672" frameX="-22" frameY="0" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0013" x="4856" y="683" width="319" height="672" frameX="-22" frameY="0" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0014" x="5185" y="683" width="319" height="672" frameX="-22" frameY="0" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0015" x="5185" y="683" width="319" height="672" frameX="-22" frameY="0" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0016" x="5514" y="683" width="319" height="672" frameX="-22" frameY="0" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0017" x="5514" y="683" width="319" height="672" frameX="-22" frameY="0" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0018" x="5843" y="683" width="319" height="672" frameX="-22" frameY="0" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica aw yeah0019" x="5843" y="683" width="319" height="672" frameX="-22" frameY="0" frameWidth="371" frameHeight="672"/>
+	<SubTexture name="Nonsensica down0000" x="6172" y="683" width="365" height="632" frameX="0" frameY="-10" frameWidth="368" frameHeight="642"/>
+	<SubTexture name="Nonsensica down0001" x="6547" y="683" width="357" height="642" frameX="-11" frameY="0" frameWidth="368" frameHeight="642"/>
+	<SubTexture name="Nonsensica down0002" x="6914" y="683" width="355" height="640" frameX="-13" frameY="-2" frameWidth="368" frameHeight="642"/>
+	<SubTexture name="Nonsensica down0003" x="7279" y="683" width="354" height="638" frameX="-13" frameY="-4" frameWidth="368" frameHeight="642"/>
+	<SubTexture name="Nonsensica down0004" x="7643" y="683" width="356" height="637" frameX="-11" frameY="-5" frameWidth="368" frameHeight="642"/>
+	<SubTexture name="Nonsensica down0005" x="7643" y="683" width="356" height="637" frameX="-11" frameY="-5" frameWidth="368" frameHeight="642"/>
+	<SubTexture name="Nonsensica down0006" x="10" y="1365" width="356" height="637" frameX="-11" frameY="-5" frameWidth="368" frameHeight="642"/>
+	<SubTexture name="Nonsensica down0007" x="10" y="1365" width="356" height="637" frameX="-11" frameY="-5" frameWidth="368" frameHeight="642"/>
+	<SubTexture name="Nonsensica down0008" x="10" y="1365" width="356" height="637" frameX="-11" frameY="-5" frameWidth="368" frameHeight="642"/>
+	<SubTexture name="Nonsensica down0009" x="10" y="1365" width="356" height="637" frameX="-11" frameY="-5" frameWidth="368" frameHeight="642"/>
+	<SubTexture name="Nonsensica laugh0000" x="2739" y="1365" width="352" height="672" frameX="-8" frameY="0" frameWidth="365" frameHeight="672"/>
+	<SubTexture name="Nonsensica laugh0001" x="3101" y="1365" width="363" height="666" frameX="0" frameY="-6" frameWidth="365" frameHeight="672"/>
+	<SubTexture name="Nonsensica laugh0002" x="3474" y="1365" width="354" height="664" frameX="-11" frameY="-8" frameWidth="365" frameHeight="672"/>
+	<SubTexture name="Nonsensica laugh0003" x="3838" y="1365" width="340" height="664" frameX="-25" frameY="-8" frameWidth="365" frameHeight="672"/>
+	<SubTexture name="Nonsensica laugh0004" x="4188" y="1365" width="335" height="664" frameX="-30" frameY="-8" frameWidth="365" frameHeight="672"/>
+	<SubTexture name="Nonsensica laugh0005" x="4533" y="1365" width="338" height="664" frameX="-27" frameY="-8" frameWidth="365" frameHeight="672"/>
+	<SubTexture name="Nonsensica up0000" x="376" y="1365" width="377" height="709" frameX="-10" frameY="0" frameWidth="391" frameHeight="709"/>
+	<SubTexture name="Nonsensica up0001" x="763" y="1365" width="391" height="694" frameX="0" frameY="-15" frameWidth="391" frameHeight="709"/>
+	<SubTexture name="Nonsensica up0002" x="1164" y="1365" width="386" height="698" frameX="-5" frameY="-11" frameWidth="391" frameHeight="709"/>
+	<SubTexture name="Nonsensica up0003" x="1560" y="1365" width="383" height="700" frameX="-6" frameY="-9" frameWidth="391" frameHeight="709"/>
+	<SubTexture name="Nonsensica up0004" x="1953" y="1365" width="383" height="701" frameX="-6" frameY="-8" frameWidth="391" frameHeight="709"/>
+	<SubTexture name="Nonsensica up0005" x="1953" y="1365" width="383" height="701" frameX="-6" frameY="-8" frameWidth="391" frameHeight="709"/>
+	<SubTexture name="Nonsensica up0006" x="2346" y="1365" width="383" height="701" frameX="-6" frameY="-8" frameWidth="391" frameHeight="709"/>
+	<SubTexture name="Nonsensica up0007" x="2346" y="1365" width="383" height="701" frameX="-6" frameY="-8" frameWidth="391" frameHeight="709"/>
+	<SubTexture name="Nonsensica up0008" x="2346" y="1365" width="383" height="701" frameX="-6" frameY="-8" frameWidth="391" frameHeight="709"/>
+	<SubTexture name="Nonsensica up0009" x="2346" y="1365" width="383" height="701" frameX="-6" frameY="-8" frameWidth="391" frameHeight="709"/>
+	<SubTexture name="Nonsensica up0010" x="2346" y="1365" width="383" height="701" frameX="-6" frameY="-8" frameWidth="391" frameHeight="709"/>
+	<SubTexture name="thats right0000" x="4881" y="1365" width="434" height="654" frameX="0" frameY="-8" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0001" x="4881" y="1365" width="434" height="654" frameX="0" frameY="-8" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0002" x="5325" y="1365" width="393" height="657" frameX="-38" frameY="-3" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0003" x="5325" y="1365" width="393" height="657" frameX="-38" frameY="-3" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0004" x="5728" y="1365" width="382" height="659" frameX="-49" frameY="0" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0005" x="6120" y="1365" width="382" height="659" frameX="-49" frameY="0" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0006" x="6512" y="1365" width="384" height="656" frameX="-48" frameY="-3" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0007" x="6906" y="1365" width="405" height="655" frameX="-29" frameY="-7" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0008" x="7321" y="1365" width="382" height="657" frameX="-49" frameY="-3" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0009" x="7713" y="1365" width="382" height="657" frameX="-49" frameY="-3" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0010" x="10" y="2084" width="382" height="659" frameX="-49" frameY="0" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0011" x="402" y="2084" width="382" height="659" frameX="-49" frameY="0" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0012" x="794" y="2084" width="383" height="658" frameX="-49" frameY="-1" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0013" x="1187" y="2084" width="383" height="658" frameX="-49" frameY="-1" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0014" x="1187" y="2084" width="383" height="658" frameX="-49" frameY="-1" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0015" x="1580" y="2084" width="384" height="657" frameX="-48" frameY="-2" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0016" x="1580" y="2084" width="384" height="657" frameX="-48" frameY="-2" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0017" x="1580" y="2084" width="384" height="657" frameX="-48" frameY="-2" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0018" x="1580" y="2084" width="384" height="657" frameX="-48" frameY="-2" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0019" x="1580" y="2084" width="384" height="657" frameX="-48" frameY="-2" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0020" x="1580" y="2084" width="384" height="657" frameX="-48" frameY="-2" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0021" x="1580" y="2084" width="384" height="657" frameX="-48" frameY="-2" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0022" x="1580" y="2084" width="384" height="657" frameX="-48" frameY="-2" frameWidth="434" frameHeight="662"/>
+	<SubTexture name="thats right0023" x="1580" y="2084" width="384" height="657" frameX="-48" frameY="-2" frameWidth="434" frameHeight="662"/>
+</TextureAtlas>

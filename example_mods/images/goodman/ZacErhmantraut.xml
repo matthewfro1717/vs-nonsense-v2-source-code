@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ZacErhmantraut.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="zac idle0000" x="5" y="5" width="243" height="577"/>
+	<SubTexture name="zac idle0001" x="5" y="5" width="243" height="577"/>
+	<SubTexture name="zac idle0002" x="253" y="5" width="243" height="577"/>
+	<SubTexture name="zac idle0003" x="253" y="5" width="243" height="577"/>
+	<SubTexture name="zac idle0004" x="501" y="5" width="243" height="577"/>
+	<SubTexture name="zac idle0005" x="501" y="5" width="243" height="577"/>
+	<SubTexture name="zac idle0006" x="749" y="5" width="243" height="577"/>
+	<SubTexture name="zac idle0007" x="749" y="5" width="243" height="577"/>
+	<SubTexture name="zac idle0008" x="997" y="5" width="243" height="577"/>
+	<SubTexture name="zac idle0009" x="997" y="5" width="243" height="577"/>
+	<SubTexture name="zac idle0010" x="1245" y="5" width="243" height="577"/>
+	<SubTexture name="zac idle0011" x="1245" y="5" width="243" height="577"/>
+	<SubTexture name="zac idle0012" x="1493" y="5" width="243" height="577"/>
+	<SubTexture name="zac idle0013" x="1493" y="5" width="243" height="577"/>
+	<SubTexture name="zac idle0014" x="1493" y="5" width="243" height="577"/>
+</TextureAtlas>

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nosense-confident.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IdleConfident0000" x="10" y="10" width="312" height="648" frameX="0" frameY="-12" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="IdleConfident0001" x="332" y="10" width="312" height="638" frameX="0" frameY="-22" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="IdleConfident0002" x="654" y="10" width="306" height="644" frameX="-3" frameY="-16" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="IdleConfident0003" x="654" y="10" width="306" height="644" frameX="-3" frameY="-16" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="IdleConfident0004" x="970" y="10" width="308" height="653" frameX="-3" frameY="-7" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="IdleConfident0005" x="970" y="10" width="308" height="653" frameX="-3" frameY="-7" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="IdleConfident0006" x="1288" y="10" width="312" height="658" frameX="-3" frameY="-2" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="IdleConfident0007" x="1288" y="10" width="312" height="658" frameX="-3" frameY="-2" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="IdleConfident0008" x="1610" y="10" width="314" height="659" frameX="-3" frameY="-1" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="IdleConfident0009" x="1934" y="10" width="315" height="659" frameX="-2" frameY="-1" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="IdleConfident0010" x="1934" y="10" width="315" height="659" frameX="-2" frameY="-1" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="IdleConfident0011" x="2259" y="10" width="315" height="660" frameX="-2" frameY="0" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="IdleConfident0012" x="2259" y="10" width="315" height="660" frameX="-2" frameY="0" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="IdleConfident0013" x="2259" y="10" width="315" height="660" frameX="-2" frameY="0" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="IdleConfident0014" x="2259" y="10" width="315" height="660" frameX="-2" frameY="0" frameWidth="317" frameHeight="660"/>
+	<SubTexture name="Nonsense shoot gun0000" x="648" y="2020" width="252" height="588" frameX="-18" frameY="-57" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0001" x="648" y="2020" width="252" height="588" frameX="-18" frameY="-57" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0002" x="910" y="2020" width="252" height="590" frameX="-18" frameY="-55" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0003" x="910" y="2020" width="252" height="590" frameX="-18" frameY="-55" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0004" x="910" y="2020" width="252" height="590" frameX="-18" frameY="-55" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0005" x="910" y="2020" width="252" height="590" frameX="-18" frameY="-55" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0006" x="910" y="2020" width="252" height="590" frameX="-18" frameY="-55" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0007" x="910" y="2020" width="252" height="590" frameX="-18" frameY="-55" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0008" x="910" y="2020" width="252" height="590" frameX="-18" frameY="-55" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0009" x="910" y="2020" width="252" height="590" frameX="-18" frameY="-55" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0010" x="910" y="2020" width="252" height="590" frameX="-18" frameY="-55" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0011" x="1172" y="2020" width="249" height="594" frameX="-19" frameY="-51" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0012" x="1172" y="2020" width="249" height="594" frameX="-19" frameY="-51" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0013" x="1431" y="2020" width="250" height="595" frameX="-19" frameY="-50" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0014" x="1431" y="2020" width="250" height="595" frameX="-19" frameY="-50" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0015" x="1691" y="2020" width="249" height="594" frameX="-20" frameY="-51" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0016" x="1691" y="2020" width="249" height="594" frameX="-20" frameY="-51" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0017" x="1950" y="2020" width="249" height="596" frameX="-20" frameY="-49" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0018" x="2209" y="2020" width="253" height="587" frameX="-17" frameY="-58" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0019" x="2472" y="2020" width="250" height="592" frameX="-19" frameY="-53" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0020" x="2472" y="2020" width="250" height="592" frameX="-19" frameY="-53" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0021" x="2732" y="2020" width="249" height="594" frameX="-20" frameY="-51" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0022" x="2732" y="2020" width="249" height="594" frameX="-20" frameY="-51" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0023" x="2732" y="2020" width="249" height="594" frameX="-20" frameY="-51" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0024" x="2732" y="2020" width="249" height="594" frameX="-20" frameY="-51" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0025" x="2991" y="2020" width="250" height="601" frameX="-19" frameY="-44" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0026" x="2991" y="2020" width="250" height="601" frameX="-19" frameY="-44" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0027" x="3251" y="2020" width="441" height="644" frameX="0" frameY="-1" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0028" x="3251" y="2020" width="441" height="644" frameX="0" frameY="-1" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0029" x="10" y="2704" width="437" height="642" frameX="-2" frameY="-3" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0030" x="10" y="2704" width="437" height="642" frameX="-2" frameY="-3" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0031" x="457" y="2704" width="434" height="642" frameX="-5" frameY="-3" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0032" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0033" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0034" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0035" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0036" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0037" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0038" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0039" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0040" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0041" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0042" x="1346" y="2704" width="520" height="637" frameX="-5" frameY="-8" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0043" x="1876" y="2704" width="536" height="642" frameX="-2" frameY="-3" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0044" x="2422" y="2704" width="538" height="642" frameX="-2" frameY="-3" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0045" x="2970" y="2704" width="539" height="645" frameX="-1" frameY="0" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0046" x="3519" y="2704" width="353" height="645" frameX="-1" frameY="0" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0047" x="10" y="3359" width="433" height="635" frameX="-11" frameY="-10" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0048" x="10" y="3359" width="433" height="635" frameX="-11" frameY="-10" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0049" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0050" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0051" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0052" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0053" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0054" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="Nonsense shoot gun0055" x="901" y="2704" width="435" height="641" frameX="-5" frameY="-4" frameWidth="540" frameHeight="645"/>
+	<SubTexture name="NoteDown confident0000" x="2584" y="10" width="326" height="598" frameX="-5" frameY="-7" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0001" x="2920" y="10" width="312" height="601" frameX="-6" frameY="-5" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0002" x="3242" y="10" width="312" height="605" frameX="-3" frameY="-1" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0003" x="3564" y="10" width="315" height="605" frameX="-2" frameY="-1" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0004" x="10" y="680" width="318" height="606" frameX="0" frameY="0" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0005" x="338" y="680" width="318" height="606" frameX="0" frameY="0" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0006" x="666" y="680" width="318" height="605" frameX="-1" frameY="-1" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0007" x="994" y="680" width="318" height="605" frameX="-1" frameY="-1" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0008" x="1322" y="680" width="317" height="605" frameX="-2" frameY="-1" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0009" x="1649" y="680" width="317" height="605" frameX="-2" frameY="-1" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0010" x="1322" y="680" width="317" height="605" frameX="-2" frameY="-1" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0011" x="1649" y="680" width="317" height="605" frameX="-2" frameY="-1" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0012" x="1322" y="680" width="317" height="605" frameX="-2" frameY="-1" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0013" x="1649" y="680" width="317" height="605" frameX="-2" frameY="-1" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0014" x="1322" y="680" width="317" height="605" frameX="-2" frameY="-1" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteDown confident0015" x="1649" y="680" width="317" height="605" frameX="-2" frameY="-1" frameWidth="331" frameHeight="606"/>
+	<SubTexture name="NoteLeft Confident0000" x="1976" y="680" width="293" height="639" frameX="0" frameY="0" frameWidth="302" frameHeight="639"/>
+	<SubTexture name="NoteLeft Confident0001" x="2279" y="680" width="299" height="633" frameX="-3" frameY="-6" frameWidth="302" frameHeight="639"/>
+	<SubTexture name="NoteLeft Confident0002" x="2588" y="680" width="294" height="630" frameX="-8" frameY="-9" frameWidth="302" frameHeight="639"/>
+	<SubTexture name="NoteLeft Confident0003" x="2892" y="680" width="291" height="631" frameX="-10" frameY="-8" frameWidth="302" frameHeight="639"/>
+	<SubTexture name="NoteLeft Confident0004" x="3193" y="680" width="292" height="632" frameX="-9" frameY="-7" frameWidth="302" frameHeight="639"/>
+	<SubTexture name="NoteLeft Confident0005" x="3193" y="680" width="292" height="632" frameX="-9" frameY="-7" frameWidth="302" frameHeight="639"/>
+	<SubTexture name="NoteLeft Confident0006" x="3495" y="680" width="293" height="633" frameX="-7" frameY="-6" frameWidth="302" frameHeight="639"/>
+	<SubTexture name="NoteLeft Confident0007" x="3495" y="680" width="293" height="633" frameX="-7" frameY="-6" frameWidth="302" frameHeight="639"/>
+	<SubTexture name="NoteLeft Confident0008" x="3495" y="680" width="293" height="633" frameX="-7" frameY="-6" frameWidth="302" frameHeight="639"/>
+	<SubTexture name="NoteLeft Confident0009" x="3495" y="680" width="293" height="633" frameX="-7" frameY="-6" frameWidth="302" frameHeight="639"/>
+	<SubTexture name="NoteLeft Confident0010" x="3495" y="680" width="293" height="633" frameX="-7" frameY="-6" frameWidth="302" frameHeight="639"/>
+	<SubTexture name="NoteLeft Confident0011" x="3495" y="680" width="293" height="633" frameX="-7" frameY="-6" frameWidth="302" frameHeight="639"/>
+	<SubTexture name="NoteRight confident0000" x="10" y="1329" width="363" height="648" frameX="-3" frameY="0" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0001" x="383" y="1329" width="356" height="643" frameX="-4" frameY="-5" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0002" x="749" y="1329" width="353" height="643" frameX="-3" frameY="-5" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0003" x="1112" y="1329" width="354" height="644" frameX="0" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0004" x="1476" y="1329" width="355" height="644" frameX="0" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0005" x="1476" y="1329" width="355" height="644" frameX="0" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0006" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0007" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0008" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0009" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0010" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0011" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0012" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0013" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0014" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0015" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0016" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0017" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0018" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0019" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0020" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0021" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0022" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteRight confident0023" x="1841" y="1329" width="355" height="644" frameX="-1" frameY="-4" frameWidth="366" frameHeight="648"/>
+	<SubTexture name="NoteUp confident0000" x="2206" y="1329" width="308" height="681" frameX="-2" frameY="0" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0001" x="2524" y="1329" width="313" height="677" frameX="0" frameY="-4" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0002" x="2847" y="1329" width="311" height="674" frameX="-3" frameY="-7" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0003" x="3168" y="1329" width="309" height="673" frameX="-4" frameY="-8" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0004" x="3487" y="1329" width="309" height="674" frameX="-5" frameY="-7" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0005" x="3487" y="1329" width="309" height="674" frameX="-5" frameY="-7" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0006" x="10" y="2020" width="309" height="674" frameX="-5" frameY="-7" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0007" x="10" y="2020" width="309" height="674" frameX="-5" frameY="-7" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0008" x="329" y="2020" width="309" height="674" frameX="-5" frameY="-7" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0009" x="329" y="2020" width="309" height="674" frameX="-5" frameY="-7" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0010" x="329" y="2020" width="309" height="674" frameX="-5" frameY="-7" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0011" x="329" y="2020" width="309" height="674" frameX="-5" frameY="-7" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0012" x="329" y="2020" width="309" height="674" frameX="-5" frameY="-7" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0013" x="329" y="2020" width="309" height="674" frameX="-5" frameY="-7" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0014" x="329" y="2020" width="309" height="674" frameX="-5" frameY="-7" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0015" x="329" y="2020" width="309" height="674" frameX="-5" frameY="-7" frameWidth="314" frameHeight="681"/>
+	<SubTexture name="NoteUp confident0016" x="329" y="2020" width="309" height="674" frameX="-5" frameY="-7" frameWidth="314" frameHeight="681"/>
+</TextureAtlas>

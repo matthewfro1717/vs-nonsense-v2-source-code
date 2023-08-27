@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				103,
+				-58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				30,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				43,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				120,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-76
+			],
+			"anim": "die",
+			"fps": 24,
+			"name": "death",
+			"indices": []
+		},
+		{
+			"offsets": [
+				51,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "stop",
+			"indices": [],
+			"name": "stop"
+		},
+		{
+			"offsets": [
+				32,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "tell",
+			"indices": [],
+			"name": "tell"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				-3
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "alt idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/devSong/candanigoose",
+	"position": [
+		60,
+		100
+	],
+	"healthicon": "gose",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		184,
+		0
+	],
+	"camera_position": [
+		-40,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"fps": 24,
+			"anim": "fade",
+			"indices": [],
+			"name": "GF Fade0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-4
+			],
+			"fps": 24,
+			"anim": "mic",
+			"indices": [],
+			"name": "GF Mic Get0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				103
+			],
+			"fps": 24,
+			"anim": "eventthydi",
+			"indices": [],
+			"name": "GF that's how you do it0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				103
+			],
+			"fps": 24,
+			"anim": "eventalr",
+			"indices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],
+			"name": "GF that's how you do it0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF-events",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

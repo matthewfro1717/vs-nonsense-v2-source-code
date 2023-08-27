@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Monosense.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down" x="1223" y="686" width="1213" height="676"/>
+	<SubTexture name="Idle" x="1227" y="5" width="1213" height="676"/>
+	<SubTexture name="Left" x="2441" y="686" width="1213" height="676"/>
+	<SubTexture name="Right" x="2445" y="5" width="1213" height="676"/>
+	<SubTexture name="Up" x="5" y="686" width="1213" height="676"/>
+	<SubTexture name="jumpscare" x="5" y="5" width="1217" height="676"/>
+</TextureAtlas>

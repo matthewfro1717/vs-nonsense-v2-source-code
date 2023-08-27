@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NewNonsenseGOD.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="God down0000" x="3787" y="3209" width="473" height="697"/>
+	<SubTexture name="God down0001" x="4265" y="3209" width="473" height="697"/>
+	<SubTexture name="God down0002" x="4743" y="2891" width="473" height="697"/>
+	<SubTexture name="God down0003" x="4743" y="3593" width="473" height="697"/>
+	<SubTexture name="God down0004" x="5221" y="2891" width="473" height="697"/>
+	<SubTexture name="God down0005" x="5221" y="3593" width="473" height="697"/>
+	<SubTexture name="God down0006" x="5699" y="2891" width="473" height="697"/>
+	<SubTexture name="God down0007" x="5699" y="3593" width="473" height="697"/>
+	<SubTexture name="die god0000" x="5" y="3292" width="1387" height="998" frameX="-325" frameY="-398" frameWidth="2224" frameHeight="1654"/>
+	<SubTexture name="die god0001" x="6325" y="5" width="1850" height="1327" frameX="-183" frameY="-147" frameWidth="2224" frameHeight="1654"/>
+	<SubTexture name="die god0002" x="4348" y="1479" width="1874" height="1407" frameX="-177" frameY="-113" frameWidth="2224" frameHeight="1654"/>
+	<SubTexture name="die god0003" x="4290" y="5" width="2030" height="1469" frameX="-168" frameY="-96" frameWidth="2224" frameHeight="1654"/>
+	<SubTexture name="die god0004" x="2226" y="5" width="2059" height="1534" frameX="-157" frameY="-62" frameWidth="2224" frameHeight="1654"/>
+	<SubTexture name="die god0005" x="2134" y="1633" width="2209" height="1571" frameX="-15" frameY="-48" frameWidth="2224" frameHeight="1654"/>
+	<SubTexture name="die god0006" x="5" y="5" width="2216" height="1623" frameX="-8" frameY="-14" frameWidth="2224" frameHeight="1654"/>
+	<SubTexture name="die god0007" x="5" y="1633" width="2124" height="1654" frameX="0" frameY="0" frameWidth="2224" frameHeight="1654"/>
+	<SubTexture name="god right0000" x="7133" y="1337" width="473" height="697"/>
+	<SubTexture name="god right0001" x="7611" y="1337" width="473" height="697"/>
+	<SubTexture name="god right0002" x="4743" y="2891" width="473" height="697"/>
+	<SubTexture name="god right0003" x="4743" y="3593" width="473" height="697"/>
+	<SubTexture name="god right0004" x="5221" y="2891" width="473" height="697"/>
+	<SubTexture name="god right0005" x="5221" y="3593" width="473" height="697"/>
+	<SubTexture name="god right0006" x="5699" y="2891" width="473" height="697"/>
+	<SubTexture name="god right0007" x="5699" y="3593" width="473" height="697"/>
+	<SubTexture name="god up long note0000" x="7661" y="2039" width="473" height="697" frameX="0" frameY="-1" frameWidth="473" frameHeight="698"/>
+	<SubTexture name="god up long note0001" x="1397" y="3292" width="473" height="698"/>
+	<SubTexture name="god up long note0002" x="7133" y="2741" width="473" height="697" frameX="0" frameY="-1" frameWidth="473" frameHeight="698"/>
+	<SubTexture name="god up long note0003" x="1875" y="3292" width="473" height="698"/>
+	<SubTexture name="god up long note0004" x="7611" y="2741" width="473" height="697" frameX="0" frameY="-1" frameWidth="473" frameHeight="698"/>
+	<SubTexture name="god up long note0005" x="2353" y="3209" width="473" height="698"/>
+	<SubTexture name="god up long note0006" x="7133" y="3443" width="473" height="697" frameX="0" frameY="-1" frameWidth="473" frameHeight="698"/>
+	<SubTexture name="god up long note0007" x="2831" y="3209" width="473" height="698"/>
+	<SubTexture name="god up long note0008" x="7611" y="3443" width="473" height="697" frameX="0" frameY="-1" frameWidth="473" frameHeight="698"/>
+	<SubTexture name="god up long note0009" x="3309" y="3209" width="473" height="698"/>
+	<SubTexture name="idle god0000" x="6177" y="2891" width="473" height="697"/>
+	<SubTexture name="idle god0001" x="6177" y="3593" width="473" height="697"/>
+	<SubTexture name="idle god0002" x="6227" y="1479" width="473" height="697"/>
+	<SubTexture name="idle god0003" x="6227" y="2181" width="473" height="697"/>
+	<SubTexture name="idle god0004" x="6655" y="2883" width="473" height="697"/>
+	<SubTexture name="idle god0005" x="6655" y="3585" width="473" height="697"/>
+	<SubTexture name="idle god0006" x="6177" y="2891" width="473" height="697"/>
+	<SubTexture name="idle god0007" x="6177" y="3593" width="473" height="697"/>
+	<SubTexture name="left god0000" x="6705" y="2039" width="473" height="697"/>
+	<SubTexture name="left god0001" x="7183" y="2039" width="473" height="697"/>
+	<SubTexture name="left god0002" x="4743" y="2891" width="473" height="697"/>
+	<SubTexture name="left god0003" x="4743" y="3593" width="473" height="697"/>
+	<SubTexture name="left god0004" x="5221" y="2891" width="473" height="697"/>
+	<SubTexture name="left god0005" x="5221" y="3593" width="473" height="697"/>
+	<SubTexture name="left god0006" x="5699" y="2891" width="473" height="697"/>
+	<SubTexture name="left god0007" x="5699" y="3593" width="473" height="697"/>
+</TextureAtlas>

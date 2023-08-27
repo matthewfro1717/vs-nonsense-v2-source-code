@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mad Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MAD up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mad Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MadRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				-47
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "eventpain",
+			"fps": 24,
+			"name": "Lol he pissed",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/classic/Nonsense_Pissed",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "nonsense",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,0,0
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"cammove":0
+}

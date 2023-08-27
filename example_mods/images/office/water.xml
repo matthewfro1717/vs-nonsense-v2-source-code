@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="workplace.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BUTTSEX instance 10000" x="0" y="0" width="239" height="524" frameX="-34" frameY="-18" frameWidth="307" frameHeight="542"/>
+	<SubTexture name="BUTTSEX instance 10001" x="0" y="0" width="239" height="524" frameX="-34" frameY="-18" frameWidth="307" frameHeight="542"/>
+	<SubTexture name="BUTTSEX instance 10002" x="289" y="0" width="227" height="540" frameX="-40" frameY="-2" frameWidth="307" frameHeight="542"/>
+	<SubTexture name="BUTTSEX instance 10003" x="289" y="0" width="227" height="540" frameX="-40" frameY="-2" frameWidth="307" frameHeight="542"/>
+	<SubTexture name="BUTTSEX instance 10004" x="566" y="0" width="227" height="542" frameX="-40" frameY="0" frameWidth="307" frameHeight="542"/>
+	<SubTexture name="BUTTSEX instance 10005" x="566" y="0" width="227" height="542" frameX="-40" frameY="0" frameWidth="307" frameHeight="542"/>
+	<SubTexture name="BUTTSEX instance 10006" x="843" y="0" width="237" height="539" frameX="-35" frameY="-3" frameWidth="307" frameHeight="542"/>
+	<SubTexture name="BUTTSEX instance 10007" x="843" y="0" width="237" height="539" frameX="-35" frameY="-3" frameWidth="307" frameHeight="542"/>
+	<SubTexture name="BUTTSEX instance 10008" x="1130" y="0" width="295" height="455" frameX="-6" frameY="-87" frameWidth="307" frameHeight="542"/>
+	<SubTexture name="BUTTSEX instance 10009" x="1130" y="0" width="295" height="455" frameX="-6" frameY="-87" frameWidth="307" frameHeight="542"/>
+	<SubTexture name="BUTTSEX instance 10010" x="1475" y="0" width="307" height="448" frameX="0" frameY="-94" frameWidth="307" frameHeight="542"/>
+	<SubTexture name="BUTTSEX instance 10011" x="1475" y="0" width="307" height="448" frameX="0" frameY="-94" frameWidth="307" frameHeight="542"/>
+	<SubTexture name="BUTTSEX instance 10012" x="1475" y="0" width="307" height="448" frameX="0" frameY="-94" frameWidth="307" frameHeight="542"/>
+	<SubTexture name="BUTTSEX instance 10013" x="0" y="592" width="239" height="498" frameX="-34" frameY="-44" frameWidth="307" frameHeight="542"/>
+</TextureAtlas>

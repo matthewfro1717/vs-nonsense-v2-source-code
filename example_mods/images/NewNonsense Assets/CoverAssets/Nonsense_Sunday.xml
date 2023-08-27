@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nonsense.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle sunday0000" x="356" y="1348" width="303" height="638" frameX="-33" frameY="-21" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0001" x="688" y="5" width="317" height="638" frameX="-33" frameY="-21" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0002" x="3115" y="5" width="286" height="644" frameX="-12" frameY="-15" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0003" x="3115" y="5" width="286" height="644" frameX="-12" frameY="-15" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0004" x="1605" y="3244" width="287" height="653" frameX="-6" frameY="-6" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0005" x="1605" y="3244" width="287" height="653" frameX="-6" frameY="-6" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0006" x="1319" y="2581" width="286" height="658" frameX="-2" frameY="-1" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0007" x="1319" y="2581" width="286" height="658" frameX="-2" frameY="-1" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0008" x="1598" y="1204" width="286" height="659" frameX="0" frameY="0" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0009" x="1598" y="1204" width="286" height="659" frameX="0" frameY="0" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0010" x="1314" y="3294" width="286" height="659" frameX="0" frameY="0" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0011" x="1314" y="3294" width="286" height="659" frameX="0" frameY="0" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0012" x="1615" y="1868" width="283" height="659" frameX="-3" frameY="0" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0013" x="1610" y="2581" width="284" height="658" frameX="-3" frameY="-1" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0014" x="1897" y="3244" width="282" height="658" frameX="-5" frameY="-1" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0015" x="3326" y="3278" width="265" height="638" frameX="-33" frameY="-21" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0016" x="3339" y="2624" width="265" height="638" frameX="-33" frameY="-21" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0017" x="3055" y="3278" width="266" height="644" frameX="-32" frameY="-15" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0018" x="3055" y="3278" width="266" height="644" frameX="-32" frameY="-15" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0019" x="1303" y="1271" width="290" height="653" frameX="-30" frameY="-6" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0020" x="1303" y="1271" width="290" height="653" frameX="-30" frameY="-6" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0021" x="1000" y="1323" width="298" height="658" frameX="-28" frameY="-1" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0022" x="1000" y="1323" width="298" height="658" frameX="-28" frameY="-1" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0023" x="676" y="2028" width="301" height="659" frameX="-27" frameY="0" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0024" x="676" y="2028" width="301" height="659" frameX="-27" frameY="0" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0025" x="689" y="2692" width="301" height="659" frameX="-27" frameY="0" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0026" x="689" y="2692" width="301" height="659" frameX="-27" frameY="0" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0027" x="982" y="2028" width="301" height="659" frameX="-27" frameY="0" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0028" x="689" y="3356" width="296" height="658" frameX="-32" frameY="-1" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="Idle sunday0029" x="1010" y="5" width="304" height="658" frameX="-32" frameY="-1" frameWidth="350" frameHeight="659"/>
+	<SubTexture name="NonsenseSundaydown0000" x="1899" y="2532" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0001" x="2184" y="3190" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0002" x="1670" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0003" x="1889" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0004" x="1889" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0005" x="1889" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0006" x="1959" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0007" x="1959" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0008" x="1889" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0009" x="1959" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0010" x="1959" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0011" x="1959" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0012" x="1959" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0013" x="1959" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0014" x="1959" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0015" x="1959" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0016" x="1959" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0017" x="1959" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0018" x="1959" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0019" x="1959" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0020" x="1959" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundaydown0021" x="1899" y="2532" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0000" x="1903" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0001" x="2178" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0002" x="2248" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0003" x="2188" y="1979" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0004" x="2192" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0005" x="2467" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0006" x="2188" y="1979" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0007" x="2192" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0008" x="2467" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0009" x="2188" y="1979" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0010" x="2192" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0011" x="2467" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0012" x="2188" y="1979" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0013" x="2192" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0014" x="2467" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0015" x="2188" y="1979" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0016" x="2192" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0017" x="2467" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0018" x="2188" y="1979" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0019" x="2192" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0020" x="2467" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayleft0021" x="1903" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0000" x="2537" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0001" x="2473" y="2637" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0002" x="2477" y="1979" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0003" x="2481" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0004" x="2481" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0005" x="2756" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0006" x="2481" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0007" x="2481" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0008" x="2756" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0009" x="2481" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0010" x="2481" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0011" x="2756" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0012" x="2481" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0013" x="2481" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0014" x="2756" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0015" x="2481" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0016" x="2481" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0017" x="2756" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0018" x="2481" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0019" x="2481" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0020" x="2756" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayright0021" x="2481" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0000" x="2826" y="5" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0001" x="2473" y="3295" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0002" x="2762" y="2637" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0003" x="2766" y="1979" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0004" x="2770" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0005" x="3045" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0006" x="2766" y="1979" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0007" x="2770" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0008" x="3045" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0009" x="2766" y="1979" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0010" x="2770" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0011" x="3045" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0012" x="2766" y="1979" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0013" x="2770" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0014" x="3045" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0015" x="2766" y="1979" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0016" x="2770" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0017" x="3045" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0018" x="2766" y="1979" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0019" x="2770" y="1321" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0020" x="3045" y="663" width="284" height="653"/>
+	<SubTexture name="NonsenseSundayup0021" x="2826" y="5" width="284" height="653"/>
+	<SubTexture name="NoteDown sunday0000" x="990" y="3356" width="319" height="598" frameX="-9" frameY="0" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0001" x="1288" y="1986" width="322" height="590" frameX="-2" frameY="-8" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0002" x="1319" y="5" width="322" height="594" frameX="0" frameY="-4" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0003" x="1347" y="604" width="318" height="595" frameX="-2" frameY="-3" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0004" x="995" y="2692" width="319" height="597" frameX="-3" frameY="-1" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0005" x="349" y="2677" width="321" height="598" frameX="-3" frameY="0" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0006" x="1021" y="668" width="321" height="598" frameX="-3" frameY="0" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0007" x="1021" y="668" width="321" height="598" frameX="-3" frameY="0" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0008" x="1021" y="668" width="321" height="598" frameX="-3" frameY="0" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0009" x="1021" y="668" width="321" height="598" frameX="-3" frameY="0" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0010" x="1021" y="668" width="321" height="598" frameX="-3" frameY="0" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0011" x="1021" y="668" width="321" height="598" frameX="-3" frameY="0" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0012" x="1021" y="668" width="321" height="598" frameX="-3" frameY="0" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0013" x="1021" y="668" width="321" height="598" frameX="-3" frameY="0" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0014" x="1021" y="668" width="321" height="598" frameX="-3" frameY="0" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteDown sunday0015" x="1021" y="668" width="321" height="598" frameX="-3" frameY="0" frameWidth="328" frameHeight="598"/>
+	<SubTexture name="NoteLeft sunday0000" x="2762" y="3295" width="288" height="639" frameX="-5" frameY="-1" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0001" x="3051" y="2637" width="283" height="636" frameX="-2" frameY="-4" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0002" x="3406" y="5" width="281" height="637" frameX="0" frameY="-3" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0003" x="3334" y="654" width="281" height="639" frameX="-1" frameY="-1" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0004" x="3055" y="1979" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0005" x="3055" y="1979" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0006" x="3059" y="1321" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0007" x="3059" y="1321" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0008" x="3059" y="1321" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0009" x="3059" y="1321" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0010" x="3059" y="1321" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0011" x="3059" y="1321" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0012" x="3059" y="1321" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0013" x="3059" y="1321" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0014" x="3059" y="1321" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0015" x="3059" y="1321" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0016" x="3059" y="1321" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0017" x="3059" y="1321" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteLeft sunday0018" x="3059" y="1321" width="281" height="640" frameX="-1" frameY="0" frameWidth="293" frameHeight="640"/>
+	<SubTexture name="NoteRight sunday0000" x="5" y="1349" width="346" height="648"/>
+	<SubTexture name="NoteRight sunday0001" x="347" y="3300" width="337" height="641" frameX="-6" frameY="-7" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0002" x="683" y="677" width="333" height="641" frameX="-7" frameY="-7" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0003" x="5" y="3300" width="337" height="643" frameX="-3" frameY="-5" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0004" x="5" y="2002" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0005" x="5" y="2002" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0006" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0007" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0008" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0009" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0010" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0011" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0012" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0013" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0014" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0015" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0016" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0017" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0018" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0019" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0020" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0021" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0022" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteRight sunday0023" x="5" y="2651" width="339" height="644" frameX="-2" frameY="-4" frameWidth="346" frameHeight="648"/>
+	<SubTexture name="NoteUp sunday0000" x="676" y="1348" width="319" height="675" frameX="-14" frameY="0" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0001" x="349" y="2002" width="322" height="670" frameX="-18" frameY="-5" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0002" x="347" y="677" width="331" height="666" frameX="-8" frameY="-9" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0003" x="347" y="5" width="336" height="667" frameX="-1" frameY="-8" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0004" x="5" y="5" width="337" height="667" frameX="0" frameY="-8" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0005" x="5" y="5" width="337" height="667" frameX="0" frameY="-8" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0006" x="5" y="677" width="337" height="667" frameX="0" frameY="-8" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0007" x="5" y="677" width="337" height="667" frameX="0" frameY="-8" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0008" x="5" y="677" width="337" height="667" frameX="0" frameY="-8" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0009" x="5" y="677" width="337" height="667" frameX="0" frameY="-8" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0010" x="5" y="677" width="337" height="667" frameX="0" frameY="-8" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0011" x="5" y="677" width="337" height="667" frameX="0" frameY="-8" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0012" x="5" y="677" width="337" height="667" frameX="0" frameY="-8" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0013" x="5" y="677" width="337" height="667" frameX="0" frameY="-8" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0014" x="5" y="677" width="337" height="667" frameX="0" frameY="-8" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0015" x="5" y="677" width="337" height="667" frameX="0" frameY="-8" frameWidth="340" frameHeight="675"/>
+	<SubTexture name="NoteUp sunday0016" x="5" y="677" width="337" height="667" frameX="0" frameY="-8" frameWidth="340" frameHeight="675"/>
+</TextureAtlas>

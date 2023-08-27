@@ -1,0 +1,2 @@
+Flashes cam white 
+(does not work if flashing lights setting is off)

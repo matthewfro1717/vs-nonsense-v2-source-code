@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				15
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "altdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				186
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "altup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				388,
+				10
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "altleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "altright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				13,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "white",
+			"loop": true,
+			"name": "you white"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/devSong/nate",
+	"position": [
+		150,
+		170
+	],
+	"healthicon": "nate",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		255,
+		206
+	],
+	"camera_position": [
+		-40,
+		-10
+	],
+	"sing_duration": 4.1,
+	"scale": 1
+}

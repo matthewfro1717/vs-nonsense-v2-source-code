@@ -1,0 +1,104 @@
+{
+	"storyName": "NONSENSE ON PS5",
+	"difficulties": "nonsense",
+	"hideFreeplay": true,
+	"weekBackground": "main",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Uncommon",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Highlighted",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Context Sensitive",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Newsense",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Random",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Logical",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Rethink",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Simple",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Your Mom",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,298 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				9,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-20,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-45,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-48,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				12,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-11,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-29,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-30,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-1,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "eventdab",
+			"fps": 24,
+			"name": "BF dab",
+			"indices": []
+		},
+		{
+			"offsets": [
+				6,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventlol",
+			"indices": [],
+			"name": "lookatdis new"
+		},
+		{
+			"offsets": [
+				-14,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "eventfrick",
+			"indices": [],
+			"name": "BF Scared new"
+		},
+		{
+			"offsets": [
+				212,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "eventnogun",
+			"indices": [],
+			"name": "BF gun away New"
+		},
+		{
+			"offsets": [
+				212,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "eventgun",
+			"indices": [],
+			"name": "BF gun away New"
+		},
+		{
+			"offsets": [
+				6,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventpog",
+			"indices": [],
+			"name": "BF POG"
+		},
+		{
+			"offsets": [
+				113,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventspin",
+			"indices": [],
+			"name": "BF Mic Spin"
+		},
+		{
+			"offsets": [
+				58,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventtpose",
+			"indices": [],
+			"name": " BF T-pose"
+		},
+		{
+			"offsets": [
+				20,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventshrug",
+			"indices": [],
+			"name": "BF Slide lol"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-18,
+				0
+			],
+			"anim": "eventbruh",
+			"fps": 24,
+			"name": "BF bruh new",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/New Nonsense/BOYFRIEND",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		60,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

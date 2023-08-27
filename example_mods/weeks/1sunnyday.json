@@ -1,0 +1,25 @@
+{
+	"songs": [
+		["Sunny Day", "gf", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Prologue :)",
+	"difficulties": "nonsense",
+	"hideFreeplay": false,
+	"weekBackground": "sunnyday",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,426 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				3000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				6000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				6937.5,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				7687.5,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				9000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				9937.5,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				27000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				33000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				49500,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				51000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				52125,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				54000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				58125,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				61500,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				67500,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				69000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				70500,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				79312.5,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				82125,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				91125,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				93000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				94125,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Nonsense Camera Zooms",
+						"0.7",
+						""
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				126,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventjoey",
+			"indices": [],
+			"name": "JOEY!!!!0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/devSong/Crystalgone",
+	"position": [
+		-150,
+		80
+	],
+	"healthicon": "crystal",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		184,
+		243
+	],
+	"camera_position": [
+		-30,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

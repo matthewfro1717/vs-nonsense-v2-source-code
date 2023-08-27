@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="songBorder.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Border0000" x="5" y="5" width="393" height="116"/>
+	<SubTexture name="Border0001" x="5" y="126" width="393" height="116"/>
+	<SubTexture name="Border0002" x="5" y="247" width="393" height="116"/>
+	<SubTexture name="Border0003" x="5" y="368" width="393" height="116"/>
+	<SubTexture name="Border0004" x="5" y="489" width="393" height="116"/>
+	<SubTexture name="Border0005" x="5" y="610" width="393" height="116"/>
+	<SubTexture name="Border0006" x="5" y="731" width="393" height="116"/>
+	<SubTexture name="Border0007" x="5" y="852" width="393" height="116"/>
+	<SubTexture name="Border0008" x="403" y="5" width="393" height="116"/>
+	<SubTexture name="Border0009" x="403" y="126" width="393" height="116"/>
+	<SubTexture name="Border0010" x="403" y="247" width="393" height="116"/>
+	<SubTexture name="Border0011" x="403" y="368" width="393" height="116"/>
+	<SubTexture name="Border0012" x="403" y="489" width="393" height="116"/>
+	<SubTexture name="Border0013" x="403" y="610" width="393" height="116"/>
+	<SubTexture name="Border0014" x="403" y="731" width="393" height="116"/>
+	<SubTexture name="Border0015" x="403" y="852" width="393" height="116"/>
+	<SubTexture name="Border0016" x="801" y="5" width="393" height="116"/>
+	<SubTexture name="Border0017" x="1199" y="5" width="393" height="116"/>
+	<SubTexture name="Border0018" x="1597" y="5" width="393" height="116"/>
+	<SubTexture name="Border0019" x="801" y="126" width="393" height="116"/>
+	<SubTexture name="Border0020" x="1199" y="126" width="393" height="116"/>
+	<SubTexture name="Border0021" x="1597" y="126" width="393" height="116"/>
+	<SubTexture name="Border0022" x="801" y="247" width="393" height="116"/>
+	<SubTexture name="Border0023" x="1199" y="247" width="393" height="116"/>
+	<SubTexture name="Border0024" x="1597" y="247" width="393" height="116"/>
+	<SubTexture name="Border0025" x="801" y="368" width="393" height="116"/>
+	<SubTexture name="Border0026" x="1199" y="368" width="393" height="116"/>
+	<SubTexture name="Border0027" x="1597" y="368" width="393" height="116"/>
+	<SubTexture name="Border0028" x="801" y="489" width="393" height="116"/>
+	<SubTexture name="Border0029" x="801" y="610" width="393" height="116"/>
+	<SubTexture name="Border0030" x="801" y="731" width="393" height="116"/>
+	<SubTexture name="Border0031" x="801" y="731" width="393" height="116"/>
+	<SubTexture name="Border0032" x="801" y="852" width="393" height="116"/>
+	<SubTexture name="Border0033" x="1199" y="489" width="393" height="116"/>
+	<SubTexture name="Border0034" x="1199" y="489" width="393" height="116"/>
+	<SubTexture name="Border0035" x="1199" y="489" width="393" height="116"/>
+	<SubTexture name="Border0036" x="1199" y="489" width="393" height="116"/>
+	<SubTexture name="Border0037" x="1199" y="489" width="393" height="116"/>
+	<SubTexture name="Border0038" x="1199" y="489" width="393" height="116"/>
+	<SubTexture name="Border0039" x="1199" y="489" width="393" height="116"/>
+	<SubTexture name="Border0040" x="1199" y="489" width="393" height="116"/>
+	<SubTexture name="Border0041" x="1199" y="489" width="393" height="116"/>
+	<SubTexture name="Border0042" x="1597" y="489" width="393" height="116"/>
+	<SubTexture name="Border0043" x="1597" y="489" width="393" height="116"/>
+	<SubTexture name="Border0044" x="1199" y="610" width="393" height="116"/>
+	<SubTexture name="Border0045" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0046" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0047" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0048" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0049" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0050" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0051" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0052" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0053" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0054" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0055" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0056" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0057" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0058" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0059" x="1597" y="610" width="393" height="116"/>
+	<SubTexture name="Border0060" x="1597" y="610" width="393" height="116"/>
+</TextureAtlas>

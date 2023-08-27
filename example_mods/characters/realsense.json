@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-15,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-14,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-4,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-19,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/real/cursed",
+	"position": [
+		-180,
+		-240
+	],
+	"healthicon": "nonsenseYT",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		196,
+		146
+	],
+	"camera_position": [
+		140,
+		270
+	],
+	"sing_duration": 2,
+	"scale": 0.6
+}

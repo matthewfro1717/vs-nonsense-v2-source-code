@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GirlfriendPinkmen.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf idle dance0000" x="5" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0001" x="5" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0002" x="5" y="567" width="447" height="557"/>
+	<SubTexture name="gf idle dance0003" x="5" y="567" width="447" height="557"/>
+	<SubTexture name="gf idle dance0004" x="457" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0005" x="457" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0006" x="457" y="567" width="447" height="557"/>
+	<SubTexture name="gf idle dance0007" x="457" y="567" width="447" height="557"/>
+	<SubTexture name="gf idle dance0008" x="909" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0009" x="909" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0010" x="909" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0011" x="909" y="567" width="447" height="557"/>
+	<SubTexture name="gf idle dance0012" x="909" y="567" width="447" height="557"/>
+	<SubTexture name="gf idle dance0013" x="909" y="567" width="447" height="557"/>
+	<SubTexture name="gf idle dance0014" x="1361" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0015" x="1361" y="567" width="447" height="557"/>
+	<SubTexture name="gf idle dance0016" x="1361" y="567" width="447" height="557"/>
+	<SubTexture name="gf idle dance0017" x="1813" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0018" x="1813" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0019" x="1813" y="567" width="447" height="557"/>
+	<SubTexture name="gf idle dance0020" x="1813" y="567" width="447" height="557"/>
+	<SubTexture name="gf idle dance0021" x="2265" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0022" x="2265" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0023" x="2717" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0024" x="2717" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0025" x="2717" y="5" width="447" height="557"/>
+	<SubTexture name="gf idle dance0026" x="2265" y="567" width="447" height="557"/>
+	<SubTexture name="gf idle dance0027" x="2265" y="567" width="447" height="557"/>
+	<SubTexture name="gf idle dance0028" x="2265" y="567" width="447" height="557"/>
+	<SubTexture name="gf idle dance0029" x="2717" y="567" width="447" height="557"/>
+</TextureAtlas>

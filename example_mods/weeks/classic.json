@@ -1,0 +1,59 @@
+{
+	"storyName": "NONSENSE ON PS4",
+	"difficulties": "nonsense",
+	"hideFreeplay": true,
+	"weekBackground": "classic",
+	"weekBefore": "sunnyday",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Common Sense",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Highlights",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Context",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Nonsense",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

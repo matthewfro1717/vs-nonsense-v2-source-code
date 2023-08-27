@@ -1,0 +1,120 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NoteRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NoteLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NoteUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-54
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NoteDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-12
+			],
+			"anim": "eventfuckingdie",
+			"fps": 24,
+			"name": "Dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				-317
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Dead Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				16
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Scream",
+			"indices": []
+		},
+		{
+			"offsets": [
+				102,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Cough",
+			"indices": [],
+			"name": "Cough"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/old-funk/old_fuck",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "old",
+	"flip_x": false,
+	"healthbar_colors": [
+		217, 254, 255
+	],
+	"camera_position": [
+		-150,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

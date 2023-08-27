@@ -1,0 +1,96 @@
+{
+	"song": {
+		"events": [
+			[
+				56379.3103448276,
+				[
+					[
+						"Play Animation",
+						"Cough",
+						"0"
+					]
+				]
+			],
+			[
+				59379.3103448276,
+				[
+					[
+						"Play Animation",
+						"eventfrick",
+						"1"
+					]
+				]
+			],
+			[
+				66206.8965517241,
+				[
+					[
+						"Change Character",
+						"1",
+						"new-nonsense-playable"
+					]
+				]
+			],
+			[
+				72827.5862068965,
+				[
+					[
+						"Change Character",
+						"0",
+						"new-nonsense-playable"
+					]
+				]
+			],
+			[
+				79344.8275862069,
+				[
+					[
+						"Change Character",
+						"1",
+						"old-nonsense"
+					]
+				]
+			],
+			[
+				79448.2758620689,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-new"
+					]
+				]
+			],
+			[
+				120310.344827586,
+				[
+					[
+						"Play Animation",
+						"eventfuckingdie",
+						"0"
+					]
+				]
+			],
+			[
+				125379.310344827,
+				[
+					[
+						"Alt Idle Animation",
+						"0",
+						"-alt"
+					]
+				]
+			],
+			[
+				129103.448275862,
+				[
+					[
+						"Play Animation",
+						"eventlol",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

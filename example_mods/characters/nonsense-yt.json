@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				72,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-25,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-20,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				339,
+				84
+			],
+			"anim": "eventunfair",
+			"fps": 24,
+			"name": "seem unfair",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				126
+			],
+			"anim": "eventhey",
+			"fps": 24,
+			"name": "look what I can do",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				45
+			],
+			"anim": "eventgood",
+			"fps": 24,
+			"name": "goodluck",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				126
+			],
+			"anim": "eventgotime",
+			"fps": 24,
+			"name": "go time",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/New Nonsense/repost/NonsenseLOL",
+	"position": [
+		0,
+		290
+	],
+	"healthicon": "nonsenseYT",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		196,
+		146
+	],
+	"camera_position": [
+		-250,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_ass_sets_mic.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Mic0000" x="10" y="10" width="699" height="634" frameX="-2" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0001" x="719" y="10" width="703" height="634" frameX="0" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0002" x="1432" y="10" width="703" height="632" frameX="0" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0003" x="2145" y="10" width="699" height="632" frameX="-2" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0004" x="2854" y="10" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0005" x="3563" y="10" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0006" x="4272" y="10" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0007" x="4981" y="10" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0008" x="4981" y="10" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0009" x="4981" y="10" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0010" x="5690" y="10" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0011" x="5690" y="10" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0012" x="5690" y="10" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0013" x="6399" y="10" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0014" x="6399" y="10" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0015" x="7108" y="10" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0016" x="10" y="668" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0017" x="723" y="668" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0018" x="1436" y="668" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0019" x="2145" y="668" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0020" x="2854" y="668" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0021" x="3563" y="668" width="699" height="638" frameX="-2" frameY="-10" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0022" x="4272" y="668" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0023" x="4272" y="668" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0024" x="4272" y="668" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0025" x="4981" y="668" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0026" x="4981" y="668" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0027" x="4981" y="668" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0028" x="5690" y="668" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Dancing Mic0029" x="5690" y="668" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Down Note mic0000" x="6399" y="668" width="699" height="619" frameX="-2" frameY="-9" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0001" x="7108" y="668" width="703" height="619" frameX="0" frameY="-9" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0002" x="10" y="1321" width="703" height="625" frameX="0" frameY="-3" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0003" x="723" y="1321" width="699" height="625" frameX="-2" frameY="-3" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0004" x="1432" y="1321" width="699" height="628" frameX="-2" frameY="0" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0005" x="1432" y="1321" width="699" height="628" frameX="-2" frameY="0" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0006" x="2141" y="1321" width="699" height="627" frameX="-2" frameY="-1" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0007" x="2141" y="1321" width="699" height="627" frameX="-2" frameY="-1" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0008" x="2141" y="1321" width="699" height="627" frameX="-2" frameY="-1" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0009" x="2141" y="1321" width="699" height="627" frameX="-2" frameY="-1" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0010" x="2141" y="1321" width="699" height="627" frameX="-2" frameY="-1" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0011" x="2141" y="1321" width="699" height="627" frameX="-2" frameY="-1" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0012" x="2141" y="1321" width="699" height="627" frameX="-2" frameY="-1" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0013" x="2141" y="1321" width="699" height="627" frameX="-2" frameY="-1" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0014" x="2141" y="1321" width="699" height="627" frameX="-2" frameY="-1" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0015" x="2141" y="1321" width="699" height="627" frameX="-2" frameY="-1" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0016" x="2141" y="1321" width="699" height="627" frameX="-2" frameY="-1" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0017" x="2141" y="1321" width="699" height="627" frameX="-2" frameY="-1" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0018" x="2141" y="1321" width="699" height="627" frameX="-2" frameY="-1" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Down Note mic0019" x="2141" y="1321" width="699" height="627" frameX="-2" frameY="-1" frameWidth="703" frameHeight="628"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0000" x="2850" y="1321" width="699" height="634" frameX="-2" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0001" x="3559" y="1321" width="703" height="634" frameX="0" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0002" x="4272" y="1321" width="703" height="632" frameX="0" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0003" x="4985" y="1321" width="699" height="632" frameX="-2" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0004" x="5694" y="1321" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0005" x="6403" y="1321" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0006" x="7112" y="1321" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0007" x="10" y="1968" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0008" x="719" y="1968" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0009" x="719" y="1968" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0010" x="1428" y="1968" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0011" x="1428" y="1968" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0012" x="2137" y="1968" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0013" x="2846" y="1968" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0014" x="2846" y="1968" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0015" x="3555" y="1968" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0016" x="4264" y="1968" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0017" x="4977" y="1968" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0018" x="5690" y="1968" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0019" x="6399" y="1968" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0020" x="7108" y="1968" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0021" x="10" y="2626" width="699" height="638" frameX="-2" frameY="-10" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0022" x="719" y="2626" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0023" x="1428" y="2626" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0024" x="1428" y="2626" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0025" x="2137" y="2626" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0026" x="2137" y="2626" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0027" x="2846" y="2626" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0028" x="3555" y="2626" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Mic cheer Dancing Beat0029" x="3555" y="2626" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF Right Note0000" x="4264" y="2626" width="699" height="623" frameX="-2" frameY="-4" frameWidth="703" frameHeight="627"/>
+	<SubTexture name="GF Right Note0001" x="4973" y="2626" width="703" height="623" frameX="0" frameY="-4" frameWidth="703" frameHeight="627"/>
+	<SubTexture name="GF Right Note0002" x="5686" y="2626" width="703" height="627"/>
+	<SubTexture name="GF Right Note0003" x="6399" y="2626" width="699" height="627" frameX="-2" frameY="0" frameWidth="703" frameHeight="627"/>
+	<SubTexture name="GF Right Note0004" x="7108" y="2626" width="699" height="626" frameX="-2" frameY="-1" frameWidth="703" frameHeight="627"/>
+	<SubTexture name="GF Right Note0005" x="7108" y="2626" width="699" height="626" frameX="-2" frameY="-1" frameWidth="703" frameHeight="627"/>
+	<SubTexture name="GF Right Note0006" x="10" y="3279" width="699" height="627" frameX="-2" frameY="0" frameWidth="703" frameHeight="627"/>
+	<SubTexture name="GF Right Note0007" x="10" y="3279" width="699" height="627" frameX="-2" frameY="0" frameWidth="703" frameHeight="627"/>
+	<SubTexture name="GF Right Note0008" x="10" y="3279" width="699" height="627" frameX="-2" frameY="0" frameWidth="703" frameHeight="627"/>
+	<SubTexture name="GF Right Note0009" x="10" y="3279" width="699" height="627" frameX="-2" frameY="0" frameWidth="703" frameHeight="627"/>
+	<SubTexture name="GF Right Note0010" x="10" y="3279" width="699" height="627" frameX="-2" frameY="0" frameWidth="703" frameHeight="627"/>
+	<SubTexture name="GF Right Note0011" x="10" y="3279" width="699" height="627" frameX="-2" frameY="0" frameWidth="703" frameHeight="627"/>
+	<SubTexture name="GF Right Note0012" x="10" y="3279" width="699" height="627" frameX="-2" frameY="0" frameWidth="703" frameHeight="627"/>
+	<SubTexture name="GF Right Note0013" x="10" y="3279" width="699" height="627" frameX="-2" frameY="0" frameWidth="703" frameHeight="627"/>
+	<SubTexture name="GF Right Note0014" x="10" y="3279" width="699" height="627" frameX="-2" frameY="0" frameWidth="703" frameHeight="627"/>
+	<SubTexture name="GF Up Note mic0000" x="719" y="3279" width="699" height="663" frameX="-2" frameY="0" frameWidth="703" frameHeight="663"/>
+	<SubTexture name="GF Up Note mic0001" x="1428" y="3279" width="703" height="663"/>
+	<SubTexture name="GF Up Note mic0002" x="2141" y="3279" width="703" height="658" frameX="0" frameY="-5" frameWidth="703" frameHeight="663"/>
+	<SubTexture name="GF Up Note mic0003" x="2854" y="3279" width="699" height="658" frameX="-2" frameY="-5" frameWidth="703" frameHeight="663"/>
+	<SubTexture name="GF Up Note mic0004" x="3563" y="3279" width="699" height="658" frameX="-2" frameY="-5" frameWidth="703" frameHeight="663"/>
+	<SubTexture name="GF Up Note mic0005" x="3563" y="3279" width="699" height="658" frameX="-2" frameY="-5" frameWidth="703" frameHeight="663"/>
+	<SubTexture name="GF Up Note mic0006" x="4272" y="3279" width="699" height="658" frameX="-2" frameY="-5" frameWidth="703" frameHeight="663"/>
+	<SubTexture name="GF Up Note mic0007" x="4272" y="3279" width="699" height="658" frameX="-2" frameY="-5" frameWidth="703" frameHeight="663"/>
+	<SubTexture name="GF Up Note mic0008" x="4272" y="3279" width="699" height="658" frameX="-2" frameY="-5" frameWidth="703" frameHeight="663"/>
+	<SubTexture name="GF Up Note mic0009" x="4272" y="3279" width="699" height="658" frameX="-2" frameY="-5" frameWidth="703" frameHeight="663"/>
+	<SubTexture name="GF Up Note mic0010" x="4272" y="3279" width="699" height="658" frameX="-2" frameY="-5" frameWidth="703" frameHeight="663"/>
+	<SubTexture name="GF left note mic0000" x="4981" y="3279" width="699" height="639" frameX="-2" frameY="-4" frameWidth="703" frameHeight="643"/>
+	<SubTexture name="GF left note mic0001" x="5690" y="3279" width="703" height="639" frameX="0" frameY="-4" frameWidth="703" frameHeight="643"/>
+	<SubTexture name="GF left note mic0002" x="6403" y="3279" width="703" height="643"/>
+	<SubTexture name="GF left note mic0003" x="7116" y="3279" width="699" height="643" frameX="-2" frameY="0" frameWidth="703" frameHeight="643"/>
+	<SubTexture name="GF left note mic0004" x="10" y="3952" width="699" height="641" frameX="-2" frameY="-2" frameWidth="703" frameHeight="643"/>
+	<SubTexture name="GF left note mic0005" x="10" y="3952" width="699" height="641" frameX="-2" frameY="-2" frameWidth="703" frameHeight="643"/>
+	<SubTexture name="GF left note mic0006" x="719" y="3952" width="699" height="642" frameX="-2" frameY="-1" frameWidth="703" frameHeight="643"/>
+	<SubTexture name="GF left note mic0007" x="719" y="3952" width="699" height="642" frameX="-2" frameY="-1" frameWidth="703" frameHeight="643"/>
+	<SubTexture name="GF left note mic0008" x="719" y="3952" width="699" height="642" frameX="-2" frameY="-1" frameWidth="703" frameHeight="643"/>
+	<SubTexture name="GF left note mic0009" x="719" y="3952" width="699" height="642" frameX="-2" frameY="-1" frameWidth="703" frameHeight="643"/>
+	<SubTexture name="GF left note mic0010" x="719" y="3952" width="699" height="642" frameX="-2" frameY="-1" frameWidth="703" frameHeight="643"/>
+	<SubTexture name="GF left note mic0011" x="719" y="3952" width="699" height="642" frameX="-2" frameY="-1" frameWidth="703" frameHeight="643"/>
+	<SubTexture name="GF left note mic0012" x="719" y="3952" width="699" height="642" frameX="-2" frameY="-1" frameWidth="703" frameHeight="643"/>
+	<SubTexture name="GF left note mic0013" x="719" y="3952" width="699" height="642" frameX="-2" frameY="-1" frameWidth="703" frameHeight="643"/>
+	<SubTexture name="GF left note mic0014" x="719" y="3952" width="699" height="642" frameX="-2" frameY="-1" frameWidth="703" frameHeight="643"/>
+	<SubTexture name="GF mic Cringe bop0000" x="1428" y="3952" width="699" height="634" frameX="-2" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0001" x="2137" y="3952" width="703" height="634" frameX="0" frameY="-14" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0002" x="2850" y="3952" width="703" height="632" frameX="0" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0003" x="3563" y="3952" width="699" height="632" frameX="-2" frameY="-16" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0004" x="4272" y="3952" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0005" x="4981" y="3952" width="699" height="635" frameX="-2" frameY="-13" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0006" x="5690" y="3952" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0007" x="6399" y="3952" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0008" x="6399" y="3952" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0009" x="7108" y="3952" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0010" x="10" y="4610" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0011" x="10" y="4610" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0012" x="10" y="4610" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0013" x="719" y="4610" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0014" x="719" y="4610" width="699" height="648" frameX="-2" frameY="0" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0015" x="1428" y="4610" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0016" x="2137" y="4610" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0017" x="2850" y="4610" width="703" height="636" frameX="0" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0018" x="3563" y="4610" width="699" height="636" frameX="-2" frameY="-12" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0019" x="4272" y="4610" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0020" x="4981" y="4610" width="699" height="637" frameX="-2" frameY="-11" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0021" x="5690" y="4610" width="699" height="638" frameX="-2" frameY="-10" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0022" x="6399" y="4610" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0023" x="6399" y="4610" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0024" x="7108" y="4610" width="699" height="643" frameX="-2" frameY="-5" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0025" x="10" y="5268" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0026" x="719" y="5268" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0027" x="719" y="5268" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0028" x="1428" y="5268" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+	<SubTexture name="GF mic Cringe bop0029" x="1428" y="5268" width="699" height="642" frameX="-2" frameY="-6" frameWidth="703" frameHeight="648"/>
+</TextureAtlas>

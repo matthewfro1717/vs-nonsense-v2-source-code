@@ -1,0 +1,35 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventpain",
+			"indices": [
+			],
+			"name": "Lol he pissed0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/New Nonsense/mad",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "nonsense",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		231,
+		255
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

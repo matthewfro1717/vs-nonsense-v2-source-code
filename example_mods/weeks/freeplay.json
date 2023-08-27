@@ -1,0 +1,77 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "nonsense",
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"The Dev Song",
+			"devs",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"twosense",
+			"twosense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"real",
+			"nonsenseYT",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"repost",
+			"nonsenseYT",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Old Funk",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"sense goodman",
+			"nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

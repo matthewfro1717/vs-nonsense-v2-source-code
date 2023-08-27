@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gorlfeind.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dance0000" x="5" y="5" width="814" height="829" frameX="0" frameY="-7" frameWidth="814" frameHeight="836"/>
+	<SubTexture name="dance0001" x="5" y="5" width="814" height="829" frameX="0" frameY="-7" frameWidth="814" frameHeight="836"/>
+	<SubTexture name="dance0002" x="834" y="5" width="804" height="836" frameX="-5" frameY="0" frameWidth="814" frameHeight="836"/>
+	<SubTexture name="dance0003" x="834" y="5" width="804" height="836" frameX="-5" frameY="0" frameWidth="814" frameHeight="836"/>
+	<SubTexture name="dance0004" x="1653" y="5" width="804" height="809" frameX="-5" frameY="-27" frameWidth="814" frameHeight="836"/>
+	<SubTexture name="dance0005" x="1653" y="5" width="804" height="809" frameX="-5" frameY="-27" frameWidth="814" frameHeight="836"/>
+	<SubTexture name="dance0006" x="2472" y="5" width="804" height="818" frameX="-5" frameY="-18" frameWidth="814" frameHeight="836"/>
+	<SubTexture name="dance0007" x="2472" y="5" width="804" height="818" frameX="-5" frameY="-18" frameWidth="814" frameHeight="836"/>
+	<SubTexture name="dance0008" x="5" y="856" width="804" height="819" frameX="-5" frameY="-17" frameWidth="814" frameHeight="836"/>
+	<SubTexture name="dance0009" x="5" y="856" width="804" height="819" frameX="-5" frameY="-17" frameWidth="814" frameHeight="836"/>
+	<SubTexture name="dance0010" x="824" y="856" width="804" height="820" frameX="-5" frameY="-16" frameWidth="814" frameHeight="836"/>
+	<SubTexture name="dance0011" x="824" y="856" width="804" height="820" frameX="-5" frameY="-16" frameWidth="814" frameHeight="836"/>
+	<SubTexture name="dance0012" x="824" y="856" width="804" height="820" frameX="-5" frameY="-16" frameWidth="814" frameHeight="836"/>
+	<SubTexture name="dance0013" x="824" y="856" width="804" height="820" frameX="-5" frameY="-16" frameWidth="814" frameHeight="836"/>
+</TextureAtlas>

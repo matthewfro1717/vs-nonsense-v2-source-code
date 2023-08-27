@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventshoot",
+			"indices": [],
+			"name": "Nonsense shoot gun"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mad Idle"
+		},
+		{
+			"offsets": [
+				38,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mad Left"
+		},
+		{
+			"offsets": [
+				43,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mad down"
+		},
+		{
+			"offsets": [
+				65,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MAD up"
+		},
+		{
+			"offsets": [
+				-26,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MadRight"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				-28
+			],
+			"anim": "eventpain",
+			"fps": 24,
+			"name": "Lol he pissed",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "NewNonsense Assets/NewNonsenseMad",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "nonsense",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		231,
+		255
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

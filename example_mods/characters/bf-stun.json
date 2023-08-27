@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-51
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				18
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-20
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				26
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				19
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				12
+			],
+			"anim": "singLEFTstun",
+			"fps": 25,
+			"name": "BF NOTE LEFT AAAAA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				303,
+				13
+			],
+			"anim": "singRIGHTstun",
+			"fps": 25,
+			"name": "BF NOTE RIGHT AAAAA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				66
+			],
+			"anim": "singUPstun",
+			"fps": 25,
+			"name": "BF NOTE UP AAAAA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "singDOWNstun",
+			"fps": 25,
+			"name": "BF NOTE DOWN AAAAA",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/New Nonsense/Boyfriend_Stunned",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-20,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

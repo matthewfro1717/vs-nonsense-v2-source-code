@@ -1,0 +1,110 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle pissed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Pissed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Right Pissed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pissed left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pissed Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				0
+			],
+			"anim": "eventmad",
+			"fps": 24,
+			"name": "pissed mid-song",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				2
+			],
+			"anim": "eventhahahlol",
+			"fps": 24,
+			"name": "takethat",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-31
+			],
+			"anim": "eventpain",
+			"fps": 24,
+			"name": "Lol he pissed",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/classic/Nonsense_Pissed",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "nonsense",
+	"flip_x": false,
+	"healthbar_colors": [
+		255, 0, 0
+	],
+	"camera_position": [
+		-70,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"cammove":0
+}

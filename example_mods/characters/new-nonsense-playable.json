@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-21
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NoteLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				-60
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NoteDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				15
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NoteUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				-14
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NoteRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
+			],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-20
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "NoteLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-61
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "NoteDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				13
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "NoteUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-13
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "NoteRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-3
+			],
+			"anim": "ohno",
+			"fps": 24,
+			"name": "oh no0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				-4
+			],
+			"anim": "huh",
+			"fps": 24,
+			"name": "huh0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-26,
+				-6
+			],
+			"anim": "eat",
+			"fps": 24,
+			"name": "NHEatingPringels0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				-7
+			],
+			"anim": "bruh",
+			"fps": 24,
+			"name": "Bruh0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-34,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eventshoot",
+			"name": "Nonsense shoot gun0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/New Nonsense/NewNonsense",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "nonsense",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		231,
+		255
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

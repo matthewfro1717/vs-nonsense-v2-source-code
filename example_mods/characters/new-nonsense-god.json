@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "God down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "god right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle god"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "god up long note"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "god right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left god"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				822,
+				592
+			],
+			"anim": "eventdie",
+			"fps": 24,
+			"name": "die god",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/New Nonsense/NewNonsenseGOD",
+	"position": [
+		-150,
+		-160
+	],
+	"healthicon": "nonsenseGod",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		231,
+		255
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"cammove":0
+}

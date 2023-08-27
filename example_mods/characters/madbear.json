@@ -1,0 +1,171 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle-Dance"
+		},
+		{
+			"offsets": [
+				46,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left-Note"
+		},
+		{
+			"offsets": [
+				0,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right-Note"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Idle-Alt"
+		},
+		{
+			"offsets": [
+				71,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up-Note"
+		},
+		{
+			"offsets": [
+				40,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down-Note"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt-loop",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Idle-Alt"
+		},
+		{
+			"offsets": [
+				71,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Up-Alt"
+		},
+		{
+			"offsets": [
+				49,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Left-Alt"
+		},
+		{
+			"offsets": [
+				0,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Right-Alt"
+		},
+		{
+			"offsets": [
+				40,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Down-Alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Dude",
+			"indices": [],
+			"name": "Dude"
+		},
+		{
+			"offsets": [
+				26,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "eventMad",
+			"loop": false,
+			"name": "is that all"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/devSong/madbear",
+	"position": [
+		-100,
+		100
+	],
+	"healthicon": "madbear",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		40,
+		40
+	],
+	"camera_position": [
+		10,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
