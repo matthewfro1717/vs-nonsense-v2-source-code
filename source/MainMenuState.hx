@@ -43,6 +43,12 @@ class MainMenuState extends MusicBeatState
 	];
 
 	var magenta:FlxSprite;
+	var characters:Array<String> = ['ClassicNonsense', 'Crystal', 'Devs', 'Goose', 'Joey', 'Madbear', 'Nate', 'Nonsense1', 'Nonsense2', 'Nonsense3', 'Nonsense4', 'Nonsense5', 'Nonsense6', 'Nonsense14', 'NonsenseStand', 'Nonsensica', 'pat', 'Skie', 'whatIsThis'];
+	// could of done this in a better way prob but here we go
+	var charactersAnims:Array<String> = ['classicNonsense', 'Crystal', 'Devs', 'goose', 'Draw', 'goofy', 'Nate', 'Nonsense', 'Nonsense', 'Nonsense', 'Nonsense', 'nonsensegod', 'Nonsense', 'Nonsense Bop', 'nonsenseStanding', 'Nonsensica', 'head pat aaaaaaaaaaa instance ', 'skie has a nonsense plush lmao', 'that'];
+	var pot:String;
+	var random:Int;
+	var randomChar:FlxSprite;
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
 	var debugKeys:Array<FlxKey>;
@@ -53,6 +59,10 @@ class MainMenuState extends MusicBeatState
 		Paths.pushGlobalMods();
 		#end
 		WeekData.loadTheFirstEnabledMod();
+
+		random = FlxG.random.int(0, 18);
+		var pot = characters[FlxG.random.int(0, 18)];
+		trace(pot);
 
 		#if desktop
 		// Updating Discord Rich Presence
@@ -127,6 +137,15 @@ class MainMenuState extends MusicBeatState
 			//menuItem.setGraphicSize(Std.int(menuItem.width * 0.58));
 			menuItem.updateHitbox();
 		}
+
+		randomChar = new FlxSprite(-80);
+		randomChar.frames = Paths.getSparrowAtlas('NonsenseUI/Main/char/' + pot);
+		randomChar.animation.addByPrefix('idle', charactersAnims[random], 24, true);
+		randomChar.animation.play('idle');
+		randomChar.scale.set(0.7,0.7);
+		randomChar.y -= 200;
+		randomChar.antialiasing = true;
+		add(randomChar);
 
 		FlxG.camera.follow(camFollowPos, null, 1);
 
