@@ -27,6 +27,7 @@ class StoryMenuState extends MusicBeatState
 	public static var weekCompleted:Map<String, Bool> = new Map<String, Bool>();
 
 	var scoreText:FlxText;
+	var thismodis:FlxText;
 
 	private static var lastDifficultyName:String = '';
 	var curDifficulty:Int = 1;
@@ -65,7 +66,12 @@ class StoryMenuState extends MusicBeatState
 		persistentUpdate = persistentDraw = true;
 
 		scoreText = new FlxText(10, 10, 0, "SCORE: 49324858", 36);
+		scoreText.visible = false;
 		scoreText.setFormat("VCR OSD Mono", 32);
+
+		thismodistxt = new FlxText(10, 10, 0, " ", 36);
+		thismodistxt.visible = true;
+		thismodistxt.setFormat("VCR OSD Mono", 32);
 
 		txtWeekTitle = new FlxText(FlxG.width * 0.7, 10, 0, "", 32);
 		txtWeekTitle.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, RIGHT);
@@ -179,13 +185,14 @@ class StoryMenuState extends MusicBeatState
 		add(tracksSprite);
 
 
-        var bottumtop:FlxSprite = new FlxSprite().loadGraphic(Paths.image('border_top'));
+        var bottumtop:FlxSprite = new FlxSprite().loadGraphic(Paths.image('NonsenseUI/Story/border_top'));
 		bottumtop.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bottumtop);
 
-		var bottumbar:FlxSprite = new FlxSprite().loadGraphic(Paths.image('border_low'));
+		var bottumbar:FlxSprite = new FlxSprite().loadGraphic(Paths.image('NonsenseUI/Story/border_low'));
 		bottumbar.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bottumbar);
+		
 		bg = new FlxSprite().loadGraphic(Paths.image('menuBGBlue'));
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bg);
@@ -205,6 +212,7 @@ class StoryMenuState extends MusicBeatState
 		add(txtTracklist);
 		// add(rankText);
 		add(scoreText);
+		add(thismodistxt);
 		add(txtWeekTitle);
 
 		changeWeek();
@@ -226,6 +234,8 @@ class StoryMenuState extends MusicBeatState
 		if(Math.abs(intendedScore - lerpScore) < 10) lerpScore = intendedScore;
 
 		scoreText.text = "WEEK SCORE:" + lerpScore;
+
+		thismodistxt.text = "*This mod is";
 
 		// FlxG.watch.addQuick('font', scoreText.font);
 
