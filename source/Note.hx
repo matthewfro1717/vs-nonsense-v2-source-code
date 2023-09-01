@@ -145,6 +145,16 @@ class Note extends FlxSprite
 						missHealth = 0.3;
 					}
 					hitCausesMiss = true;
+				case 'God':
+					ignoreNote = mustPress;
+					reloadNote('GOD');
+					colorSwap.hue = 0;
+					colorSwap.saturation = 0;
+					colorSwap.brightness = 0;
+					lowPriority = true;
+	
+					missHealth = 0.35;
+					hitCausesMiss = false;
 				case 'Alt Animation':
 					animSuffix = '-alt';
 				case 'No Animation':
@@ -312,6 +322,11 @@ class Note extends FlxSprite
 
 		if(animName != null)
 			animation.play(animName, true);
+
+	    if(prefix == 'GOD')
+			{
+				offsetX -= 24;
+			}
 
 		if(inEditor) {
 			setGraphicSize(ChartingState.GRID_SIZE, ChartingState.GRID_SIZE);

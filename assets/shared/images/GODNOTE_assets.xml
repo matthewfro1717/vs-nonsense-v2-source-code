@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GODNOTE_assets.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="5" y="5" width="236" height="233"/>
+	<SubTexture name="blue hold end0000" x="5" y="481" width="130" height="143"/>
+	<SubTexture name="blue hold piece0000" x="140" y="487" width="130" height="123"/>
+	<SubTexture name="green0000" x="5" y="243" width="236" height="233"/>
+	<SubTexture name="green hold end0000" x="5" y="481" width="130" height="143"/>
+	<SubTexture name="green hold piece0000" x="140" y="487" width="130" height="123"/>
+	<SubTexture name="pruple end hold0000" x="5" y="481" width="130" height="143"/>
+	<SubTexture name="purple0000" x="246" y="246" width="233" height="236"/>
+	<SubTexture name="purple hold piece0000" x="140" y="487" width="130" height="123"/>
+	<SubTexture name="red0000" x="246" y="5" width="233" height="236"/>
+	<SubTexture name="red hold end0000" x="5" y="481" width="130" height="143"/>
+	<SubTexture name="red hold piece0000" x="140" y="487" width="130" height="123"/>
+</TextureAtlas>

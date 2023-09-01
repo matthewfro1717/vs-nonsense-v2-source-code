@@ -32,7 +32,6 @@ end
 
 function onStepHit()
 
-	setProperty('health', 1)
 	if curStep == 1 then
 		setProperty('defaultCamZoom', 1)
 	end

@@ -18,6 +18,7 @@ import flixel.util.FlxTimer;
 import lime.net.curl.CURLCode;
 import flixel.graphics.FlxGraphic;
 import WeekData;
+import flixel.addons.display.FlxBackdrop;
 
 using StringTools;
 
@@ -32,6 +33,10 @@ class StoryMenuState extends MusicBeatState
 
 	var txtWeekTitle:FlxText;
 	var bgSprite:FlxSprite;
+    var checkerBG:FlxBackdrop;
+	var bg:FlxSprite;
+	var bottumtop:FlxSprite;
+	var bottumbar:FlxSprite; //just in case they are needed while compile 
 
 	private static var curWeek:Int = 0;
 
@@ -161,17 +166,37 @@ class StoryMenuState extends MusicBeatState
 		rightArrow.frames = ui_tex;
 		rightArrow.animation.addByPrefix('idle', 'arrow right');
 		rightArrow.animation.addByPrefix('press', "arrow push right", 24, false);
-		rightArrow.animation.play('idle');
+        rightArrow.animation.play('idle');
 		rightArrow.antialiasing = ClientPrefs.globalAntialiasing;
 		difficultySelectors.add(rightArrow);
 
-		add(bgYellow);
+		//add(bgYellow);
 		add(bgSprite);
 		add(grpWeekCharacters);
 
-		var tracksSprite:FlxSprite = new FlxSprite(FlxG.width * 0.07, bgSprite.y + 425).loadGraphic(Paths.image('Menu_Tracks'));
+		bg = new FlxSprite().loadGraphic(Paths.image('menuBGBlue'));
+		bg.antialiasing = ClientPrefs.globalAntialiasing;
+		add(bg);
+
+		var checkerBG:FlxBackdrop = new FlxBackdrop(Paths.image('NonsenseUI/bg_pattern'));
+        checkerBG.antialiasing = ClientPrefs.globalAntialiasing;
+        checkerBG.velocity.x = 25;
+        checkerBG.velocity.y = -25;
+        add(checkerBG); 
+
+		var tracksSprite:FlxSprite = new FlxSprite(FlxG.width * 0.07, bgSprite.y + 425).loadGraphic(Paths.image('NonsenseUI/Story/Menu_Tracks'));
 		tracksSprite.antialiasing = ClientPrefs.globalAntialiasing;
 		add(tracksSprite);
+
+
+        var bottumtop:FlxSprite = new FlxSprite().loadGraphic(Paths.image('NonsenseUI/Story/border_top'));
+		bottumtop.antialiasing = ClientPrefs.globalAntialiasing;
+		add(bottumtop);
+
+		var bottumbar:FlxSprite = new FlxSprite().loadGraphic(Paths.image('NonsenseUI/Story/border_low'));
+		bottumbar.antialiasing = ClientPrefs.globalAntialiasing;
+		add(bottumbar);
+
 
 		txtTracklist = new FlxText(FlxG.width * 0.05, tracksSprite.y + 60, 0, "", 32);
 		txtTracklist.alignment = CENTER;
