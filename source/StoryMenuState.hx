@@ -178,24 +178,25 @@ class StoryMenuState extends MusicBeatState
 		tracksSprite.antialiasing = ClientPrefs.globalAntialiasing;
 		add(tracksSprite);
 
-		bg = new FlxSprite().loadGraphic(Paths.image('NonsenseUI/freeplayBG'));
-		bg.antialiasing = ClientPrefs.globalAntialiasing;
-		add(bg);
 
-
-		var checkerBG:FlxBackdrop = new FlxBackdrop(Paths.image('NonsenseUI/bg_pattern'));
-        checkerBG.antialiasing = ClientPrefs.globalAntialiasing;
-        checkerBG.velocity.x = 25;
-        checkerBG.velocity.y = -25;
-        add(checkerBG); 
-
-		var bottumtop:FlxSprite = new FlxSprite().loadGraphic(Paths.image('border_top'));
+        var bottumtop:FlxSprite = new FlxSprite().loadGraphic(Paths.image('border_top'));
 		bottumtop.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bottumtop);
 
 		var bottumbar:FlxSprite = new FlxSprite().loadGraphic(Paths.image('border_low'));
 		bottumbar.antialiasing = ClientPrefs.globalAntialiasing;
 		add(bottumbar);
+		bg = new FlxSprite().loadGraphic(Paths.image('menuBGBlue'));
+		bg.antialiasing = ClientPrefs.globalAntialiasing;
+		add(bg);
+
+  		var checkerBG:FlxBackdrop = new FlxBackdrop(Paths.image('NonsenseUI/bg_pattern'));
+        checkerBG.antialiasing = ClientPrefs.globalAntialiasing;
+        checkerBG.velocity.x = 25;
+        checkerBG.velocity.y = -25;
+        add(checkerBG); 
+
+		
 
 		txtTracklist = new FlxText(FlxG.width * 0.05, tracksSprite.y + 60, 0, "", 32);
 		txtTracklist.alignment = CENTER;
