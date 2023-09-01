@@ -18,6 +18,7 @@ import flixel.util.FlxTimer;
 import lime.net.curl.CURLCode;
 import flixel.graphics.FlxGraphic;
 import WeekData;
+import flixel.addons.display.FlxBackdrop;
 
 using StringTools;
 
@@ -33,8 +34,9 @@ class StoryMenuState extends MusicBeatState
 	var txtWeekTitle:FlxText;
 	var bgSprite:FlxSprite;
     var checkerBG:FlxBackdrop;
-	var bottumtop:FlxSpirte;
-	var bottumbar:FlxSpirte; //just in case they are needed while compile 
+	var bg:FlxSprite;
+	var bottumtop:FlxSprite;
+	var bottumbar:FlxSprite; //just in case they are needed while compile 
 
 	private static var curWeek:Int = 0;
 
