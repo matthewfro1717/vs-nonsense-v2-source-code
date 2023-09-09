@@ -25,7 +25,7 @@ using StringTools;
 
 class MainMenuState extends MusicBeatState
 {
-	public static var psychEngineVersion:String = '0.6.2'; //This is also used for Discord RPC
+	public static var psychEngineVersion:String = '0.6.3'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
 
 	var menuItems:FlxTypedGroup<FlxSprite>;
@@ -80,6 +80,8 @@ class MainMenuState extends MusicBeatState
 		FlxG.cameras.add(camAchievement, false);
 		FlxG.cameras.setDefaultDrawTarget(camGame, true);
 
+		camGame.zoom = 1.3;
+
 		transIn = FlxTransitionableState.defaultTransIn;
 		transOut = FlxTransitionableState.defaultTransOut;
 
@@ -111,6 +113,7 @@ class MainMenuState extends MusicBeatState
 
 		magenta = new FlxSprite(-330, -440).loadGraphic(Paths.image('NonsenseUI/Main/border'));
 		magenta.antialiasing = ClientPrefs.globalAntialiasing;
+		magenta.scrollFactor.set(0.7,0.7);
 		add(magenta);
 
 		menuItems = new FlxTypedGroup<FlxSprite>();
@@ -127,38 +130,40 @@ class MainMenuState extends MusicBeatState
 			testButton.antialiasing = true;
 			testButton.updateHitbox();
 			testButton.screenCenter(X);
-			testButton.scrollFactor.set();
+			testButton.scrollFactor.set(0.09, 0.09);
+			testButton.scale.set(0.8,0.8);
 
 			switch(i) {
 				case 0:
 					testButton.setPosition(0, 6565654);
 					testButton.loadGraphic(Paths.image('NonsenseUI/Main/buttons/awards'));
 				case 1:
-					testButton.setPosition(0, 0);
+					testButton.setPosition(850, 430);
 					testButton.loadGraphic(Paths.image('NonsenseUI/Main/buttons/credits'));
 				case 2:
-					testButton.setPosition(400, 580);
+					testButton.setPosition(455, 320);
 					testButton.loadGraphic(Paths.image('NonsenseUI/Main/buttons/freeplay'));
 				case 3:
-					testButton.setPosition(633, 580);
+					testButton.setPosition(880, 320);
 					testButton.loadGraphic(Paths.image('NonsenseUI/Main/buttons/options'));
 				case 4:
-					testButton.setPosition(455, 640);
+					testButton.setPosition(700, 640);
 					testButton.loadGraphic(Paths.image('NonsenseUI/Main/buttons/promo'));
 				case 5:
-					testButton.setPosition(590, 640);
+					testButton.setPosition(430, 100);
 					testButton.loadGraphic(Paths.image('NonsenseUI/Main/buttons/story_mode'));
 			}
 			menuItems.add(testButton);
 		}		
 
-		randomChar = new FlxSprite(-80);
+		randomChar = new FlxSprite(-500);
 		randomChar.frames = Paths.getSparrowAtlas('NonsenseUI/Main/char/' + pot);
 		randomChar.animation.addByPrefix('idle', charactersAnims[random], 24, true);
 		randomChar.animation.play('idle');
 		randomChar.scale.set(0.7,0.7);
 		randomChar.y -= 200;
 		randomChar.antialiasing = true;
+		randomChar.visible = false;
 		add(randomChar);
 
 		FlxG.camera.follow(camFollowPos, null, 1);
@@ -234,7 +239,7 @@ class MainMenuState extends MusicBeatState
 
 
 		var lerpVal:Float = CoolUtil.boundTo(elapsed * 7.5, 0, 1);
-		camFollowPos.setPosition(FlxMath.lerp(FlxG.mouse.x / 13, FlxG.mouse.x / 13, lerpVal), FlxMath.lerp(FlxG.mouse.y / 5.8, FlxG.mouse.y / 5.8, lerpVal));
+		camFollowPos.setPosition(FlxMath.lerp(FlxG.mouse.x / 30, FlxG.mouse.x / 30, lerpVal), FlxMath.lerp(FlxG.mouse.y / 15, FlxG.mouse.y / 15, lerpVal));
 
 		if (!selectedSomethin)
 		{

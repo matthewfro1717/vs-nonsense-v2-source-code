@@ -27,7 +27,7 @@ class StoryMenuState extends MusicBeatState
 	public static var weekCompleted:Map<String, Bool> = new Map<String, Bool>();
 
 	var scoreText:FlxText;
-	var thismodis:FlxText;
+	var thismodistxt:FlxText;
 
 	private static var lastDifficultyName:String = '';
 	var curDifficulty:Int = 1;
@@ -72,6 +72,7 @@ class StoryMenuState extends MusicBeatState
 		thismodistxt = new FlxText(10, 10, 0, " ", 36);
 		thismodistxt.visible = true;
 		thismodistxt.setFormat("VCR OSD Mono", 32);
+		thismodistxt.alpha = 0.7;
 
 		txtWeekTitle = new FlxText(FlxG.width * 0.7, 10, 0, "", 32);
 		txtWeekTitle.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, RIGHT);
